@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Marc Dordal i Carreras"
   avatar           : "profile.png"
-  bio              : "Assistant Professor at HKUST Economics Department. My research interests are on Macroeconomics, Monetary Policy and Banking."
+  bio              : "Assistant Professor in the Economics Department at HKUST, focusing on Macroeconomics, Monetary Policy, and Banking research."
   location         : "Hong Kong SAR"
-  employer         : "Hong Kong University of Science and Technology (HKUST)"
+  employer         : "HKUST"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=EVxaTW0AAAAJ&hl=ca"
   email            : "marcdordal@ust.hk"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "MarcDC89"
+  twitter          : #"MarcDC89"
   vine             :
   weibo            :
   xing             :
