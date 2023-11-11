@@ -15,3 +15,13 @@ author_profile: true
 {% for post in site.published_papers reversed %}
   {% include archive-single.html %}
 {% endfor %}
+
+<h2>Policy Papers</h2>
+
+<h2>Working Papers</h2>
+
+<h2>Work in Progress</h2>
+
+<h2>Resting Work</h2>
+
+
