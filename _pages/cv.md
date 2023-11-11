@@ -38,6 +38,7 @@ Skills
 
 Research
 ======
+### Publications
   <ul>{% for post in site.published_papers %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
