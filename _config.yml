@@ -181,7 +181,19 @@ collections:
   # publications:
   #   output: true
   #   permalink: /:collection/:path/
-  research:
+  published_papers:
+    output: true
+    permalink: /:collection/:path/
+  policy_papers:
+    output: true
+    permalink: /:collection/:path/
+  working_papers:
+    output: true
+    permalink: /:collection/:path/
+  works_in_progress:
+    output: true
+    permalink: /:collection/:path/
+  resting_works:
     output: true
     permalink: /:collection/:path/
   portfolio:
