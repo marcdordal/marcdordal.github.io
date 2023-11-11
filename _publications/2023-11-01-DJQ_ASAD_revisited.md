@@ -1,5 +1,5 @@
 ---
-title: "A Theory of Keynesian Demand and Supply Interactions under Endogenous Firm Entry. "
+title: "A Theory of Keynesian Demand and Supply Interactions under Endogenous Firm Entry"
 collection: publications
 permalink: /publication/2023-11-01-DJQ_ASAD_revisited
 date: 2023-11-01

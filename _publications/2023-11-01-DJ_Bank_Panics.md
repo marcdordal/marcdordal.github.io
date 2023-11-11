@@ -1,5 +1,5 @@
 ---
-title: "The Spatial Transmission of US Banking Panics."
+title: "The Spatial Transmission of US Banking Panics"
 collection: publications
 permalink: /publication/2023-11-01-DJ_Bank_Panics
 date: 2023-11-01

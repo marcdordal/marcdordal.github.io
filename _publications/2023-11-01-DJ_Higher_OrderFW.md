@@ -1,5 +1,5 @@
 ---
-title: "A Higher-Order Forward Guidance."
+title: "A Higher-Order Forward Guidance"
 collection: publications
 permalink: /publication/2023-11-01-DJ_Higher_OrderFW
 date: 2023-11-01

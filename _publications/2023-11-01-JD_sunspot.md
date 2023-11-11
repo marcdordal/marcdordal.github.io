@@ -1,5 +1,5 @@
 ---
-title: "Self-fulfilling Volatility, Risk-Premium, and Business Cycles."
+title: "Self-fulfilling Volatility, Risk-Premium, and Business Cycles"
 collection: publications
 permalink: /publication/2023-11-01-JD_sunspot
 excerpt: 'We develop a New-Keynesian framework with stock markets that features the potential for self-fulfilling financial uncertainty shocks. We show that conventional monetary policy rules are unable to prevent the appearance of financial sunspots, and describe the necessary conditions that restore determinacy and achieve ultra-divine coincidence: the joint stabilization of inflation, output gap, and risk-premium. We also revisit the zero lower bound (ZLB) and show it amplifies the duration, severity, and welfare costs of fluctuations in financial volatility.'

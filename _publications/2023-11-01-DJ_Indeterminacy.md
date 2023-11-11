@@ -1,5 +1,5 @@
 ---
-title: "A New Indeterminacy with Fluctuations in Volatility and Risk Premium."
+title: "A New Indeterminacy with Fluctuations in Volatility and Risk Premium"
 collection: publications
 permalink: /publication/2023-11-01-DJ_Indeterminacy
 date: 2023-11-01

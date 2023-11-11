@@ -1,5 +1,5 @@
 ---
-title: "Empirical Estimation of Bond Market Segmentation."
+title: "Empirical Estimation of Bond Market Segmentation"
 collection: publications
 permalink: /publication/2023-11-01-CDJ_Market_segmentation_empiric
 date: 2023-11-01
