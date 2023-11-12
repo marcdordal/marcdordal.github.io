@@ -17,3 +17,14 @@ Hong Kong SAR<br />
 
 Phone: (852) 2358 7964<br /> 
 [marcdordal@ust.hk](mailto:marcdordal@ust.hk)
+
+
+### Office Hours, Fall 2023
+* Monday, 2:30-3:30 pm.
+* Wednesday, 6-7 pm.
+* Or by appointment (send me an email).
+
+
+
+
+

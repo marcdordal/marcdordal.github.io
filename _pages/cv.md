@@ -14,14 +14,15 @@ You can download a <kbd>.pdf</kbd> version of my CV [here](http://marcdordal.git
 
 Academic Position
 ======
-* Assistant Professor of Economics, *Hong Kong University of Science and Technology*, 2021-Present
+* Assistant Professor of Economics, *Hong Kong University of Science and Technology*, 2021-Present.
 
 Education
 ======
-* Ph.D. in Economics, *University of California - Berkeley*, 2021 
-* M.Res. in Economics, Finance and Management, *Universitat Pompeu Fabra*, 2013
-* M.Sc. in Economics and Finance, *Barcelona School of Economics*, 2012
-* B.S. (Llicenciatura) in Economics, *Universitat Pompeu Fabra*, 2011
+* Ph.D. in Economics, *University of California, Berkeley*, 2021.
+  * Thesis advisor: Yuriy Gorodnichenko.
+* M.Res. in Economics, Finance and Management, *Universitat Pompeu Fabra*, 2013.
+* M.Sc. in Economics and Finance, *Barcelona School of Economics*, 2012.
+* B.S. (Llicenciatura) in Economics, *Universitat Pompeu Fabra*, 2011.
 
 <!-- Work experience
 ======
@@ -73,16 +74,33 @@ Research
 
 Research Grants
 ======
-* Research Grants Council, Early Career Scheme (ECS), Project #: 26603022, 
+* Research Grants Council, Early Career Scheme (ECS), Project #: 26603022, "Fed "Influencers": How individual characteristics and charisma affect FOMC policy decisions." Funding: HK$854,550, date: 2023-2025.
 
+Referee
+======
+Journal of Monetary Economics; The Review of Economics and Statistics; Pacific Economic Review.
 
+Ph.D. Student Supervision
+======
+* Chen (Cassie) XIANG (main supervisor), [webpage](https://cassiexiang.github.io/ "https://cassiexiang.github.io/").
+* Zhenghua QI (co-supervisor), [webpage](https://zhenghua-qi.github.io/ "https://zhenghua-qi.github.io/").
+
+Ph.D. Thesis Committee Member
+======
+Xiang SHI (job market candidate); Jun YU; Hei Chun (Alvin) LO.
 
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
-  
+
+Teaching
+======
+* *HKUST*, Economics Department
+  * Spring 22; Fall 22, 23: Econ 2123 Macroeconomics.
+  * Fall 21-23: Econ 5250 Macroeconomic Theory I.
+
 <!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
