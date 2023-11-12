@@ -9,11 +9,19 @@ redirect_from:
 
 {% include base_path %}
 
+
+You can download a <kbd>.pdf</kbd> version of my CV [here](http://marcdordal.github.io/files/slides_Infreq_ZLB.pdf "CV Marc Dordal").
+
+Academic Position
+======
+* Assistant Professor of Economics, *Hong Kong University of Science and Technology*, 2021-Present
+
 Education
 ======
-* B.S. in GitHub, GitHub University, 2012
-* M.S. in Jekyll, GitHub University, 2014
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+* Ph.D. in Economics, *University of California - Berkeley*, 2021 
+* M.Res. in Economics, Finance and Management, *Universitat Pompeu Fabra*, 2013
+* M.Sc. in Economics and Finance, *Barcelona School of Economics*, 2012
+* B.S. (Llicenciatura) in Economics, *Universitat Pompeu Fabra*, 2011
 
 <!-- Work experience
 ======
@@ -38,7 +46,7 @@ Education
 
 Research
 ======
-## Published Papers
+## Published/Accepted Papers
   <ul>{% for post in site.published_papers %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
@@ -62,6 +70,12 @@ Research
   <ul>{% for post in site.resting_works %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
+
+Research Grants
+======
+* Research Grants Council, Early Career Scheme (ECS), Project #: 26603022, 
+
+
 
 Talks
 ======
