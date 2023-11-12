@@ -233,10 +233,55 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _publications
+  # # _publications
+  # - scope:
+  #     path: ""
+  #     type: publications
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
+  # _published_papers
   - scope:
       path: ""
-      type: publications
+      type: published_papers
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _policy_papers
+  - scope:
+      path: ""
+      type: policy_papers
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _working_papers
+  - scope:
+      path: ""
+      type: working_papers
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _works_in_progress
+  - scope:
+      path: ""
+      type: works_in_progress
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
+  # _resting_works
+  - scope:
+      path: ""
+      type: resting_works
     values:
       layout: single
       author_profile: true
