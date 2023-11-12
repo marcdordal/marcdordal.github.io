@@ -10,16 +10,16 @@ redirect_from:
 {% include base_path %}
 
 
-You can download a <kbd>.pdf</kbd> version of my CV [here](http://marcdordal.github.io/files/CV_Marc_Dordal.pdf "CV Marc Dordal").
+You can download a <kbd>.pdf</kbd> version of my [CV here](http://marcdordal.github.io/files/CV_Marc_Dordal.pdf "CV Marc Dordal").
 
-Academic Position
+Current Affiliations
 ======
 * Assistant Professor of Economics, *Hong Kong University of Science and Technology*, 2021-Present.
 
 Education
 ======
 * Ph.D. in Economics, *University of California, Berkeley*, 2021.
-  * Thesis advisor: Yuriy Gorodnichenko.
+  <!-- * Thesis advisor: Yuriy Gorodnichenko. -->
 * M.Res. in Economics, Finance and Management, *Universitat Pompeu Fabra*, 2013.
 * M.Sc. in Economics and Finance, *Barcelona School of Economics*, 2012.
 * B.S. (Llicenciatura) in Economics, *Universitat Pompeu Fabra*, 2011.
@@ -89,11 +89,16 @@ Ph.D. Thesis Committee Member
 ======
 Xiang SHI (job market candidate); Jun YU; Hei Chun (Alvin) LO.
 
-Talks
+Conferences, Events & Seminars
 ======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
+<!-- * Co-organizer, "name and link to conference", HKUST and HKMA, (2024, forthcoming).
+* Speaker, *Tsinghua SEM*, (2023). -->
+* Speaker, "East Asia Macroeconomics Conference", *CUHK*, (2023).
+* Speaker, "Asia Meeting of the Econometric Society - AMES Singapore", *NTU*, (2023).
+* Co-organizer, "HKUST/Jinan Joint Macro Workshop, 6<sup>th</sup> and 7<sup>th</sup> editions", *HKUST and Jinan University*, (2022-2024).
+* Discussant, "HKUST/Jinan Joint Macro Workshop, 5<sup>th</sup> edition", *HKUST and Jinan University*, (2021).
+* Co-organizer, "[Cryptocurrencies, Blockchains and the Digital Economy](https://cep.hkust.edu.hk/events/cryptocurrencies-blockchains-and-the-digital-economy "Cryptocurrencies, Blockchains and the Digital Economy")", *HKUST, Center for Economic Policy*, (2022).
+* Co-organizer, "[Central Bank Digital Currencies: Implementation, Applications and Challenges](https://cep.hkust.edu.hk/events/central-bank-digital-currencies-implementation-applications-and-challenges "Central Bank Digital Currencies: Implementation, Applications and Challenges")", *HKUST, Center for Economic Policy*, (2022).
 
 Teaching
 ======
@@ -101,12 +106,20 @@ Teaching
   * Spring 22; Fall 22, 23: Econ 2123 Macroeconomics.
   * Fall 21-23: Econ 5250 Macroeconomic Theory I.
 
+Service and Leadership
+======
+* Member, Postgraduate Committee.
+* Co-organizer, Macro Reading group and Research Postgraduate Student Workshop.
+* Dordal i Carreras, Marc, Kohei Kawaguchi, Edwin L.C. Lai, "Estimating demand for e-HKD and assessing its impacts on Hong Kong economy", *Research Assessment Exercise*, (2026).
+
+<!-- Talks
+======
+  <ul>{% for post in site.talks %}
+    {% include archive-single-talk-cv.html %}
+  {% endfor %}</ul> -->
+
 <!-- Teaching
 ======
   <ul>{% for post in site.teaching %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul> -->
-
-<!-- Service and leadership
-======
-* Currently signed in to 43 different slack teams -->
