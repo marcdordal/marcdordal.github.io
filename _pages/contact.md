@@ -22,9 +22,5 @@ Phone: (852) 2358 7964<br />
 ### Office Hours, Fall 2023
 * Monday, 2:30-3:30 pm.
 * Wednesday, 6-7 pm.
-* Or by appointment (send me an email).
-
-
-
-
+* Or by appointment (via email).
 
