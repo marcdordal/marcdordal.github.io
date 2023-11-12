@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 
-You can download a <kbd>.pdf</kbd> version of my CV [here](http://marcdordal.github.io/files/slides_Infreq_ZLB.pdf "CV Marc Dordal").
+You can download a <kbd>.pdf</kbd> version of my CV [here](http://marcdordal.github.io/files/CV_Marc_Dordal.pdf "CV Marc Dordal").
 
 Academic Position
 ======
