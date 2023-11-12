@@ -4,6 +4,7 @@ collection: published_papers
 permalink: /published_paper/2023-11-01-DJQ_ASAD_revisited
 date: 2023-11-01
 venue: 'Working Paper'
+wppaperurl: 'http://marcdordal.github.io/files/WP_AD_AS.pdf'
 citation: 'Dordal i Carreras, Marc, Seung Joo Lee, and Zhenghua Qi. &quot;A Theory of Keynesian Demand and Supply Interactions under Endogenous Firm Entry. &quot;  <i>Working Paper</i> (2023).'
 ---
 [Download working paper here](http://marcdordal.github.io/files/WP_AD_AS.pdf)

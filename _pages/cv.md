@@ -38,18 +38,30 @@ Education
 
 Research
 ======
-## Publications
+## Published Papers
   <ul>{% for post in site.published_papers %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
 ## Policy Papers
+  <ul>{% for post in site.policy_papers %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 ## Working Papers
+  <ul>{% for post in site.working_papers %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
-## Work in Progress
+## In Progress
+  <ul>{% for post in site.works_in_progress %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 ## Resting Work
+  <ul>{% for post in site.resting_work %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
 
 Talks
 ======

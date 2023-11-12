@@ -17,11 +17,22 @@ author_profile: true
 {% endfor %}
 
 <h2>Policy Papers</h2>
+{% for post in site.policy_papers reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 <h2>Working Papers</h2>
+{% for post in site.working_papers reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
-<h2>Work in Progress</h2>
+<h2>In Progress</h2>
+{% for post in site.works_in_progress reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
 <h2>Resting Work</h2>
-
+{% for post in site.resting_works reversed %}
+  {% include archive-single.html %}
+{% endfor %}
 
