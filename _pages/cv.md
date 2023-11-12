@@ -59,7 +59,7 @@ Research
   {% endfor %}</ul>
 
 ## Resting Work
-  <ul>{% for post in site.resting_work %}
+  <ul>{% for post in site.resting_works %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
