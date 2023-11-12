@@ -14,7 +14,7 @@ Countries rarely hit the zero lower bound (ZLB) on interest rates, but when they
 
 [Download working paper here](http://marcdordal.github.io/files/WP_Infreq_ZLB.pdf)
 
-[Download slides here](http://marcdordal.github.io/files/WP_Infreq_ZLB.pdf)
+[Download slides here](http://marcdordal.github.io/files/slides_Infreq_ZLB.pdf)
 
 [VOX-EU/CEPR article](https://cepr.org/voxeu/columns/infrequent-long-lived-zero-bound-episodes-and-optimal-rate-inflation#:~:text=policy%20Monetary%20Policy-,Infrequent%20but%20long%2Dlived%20zero%2Dbound%20episodes%20and,the%20optimal%20rate%20of%20inflation&text=Models%20that%20estimate%20optimal%20inflation,lack%20of%20historical%20data%20available.)
 
