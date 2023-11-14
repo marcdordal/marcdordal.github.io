@@ -11,7 +11,7 @@ redirect_from:
 I am an Assistant Professor in Economics at the Hong Kong University of Science and Technology. 
 
 ## Education
-* I graduated with a Ph.D. in Economics from the University of California, Berkeley in 2021.
+I graduated with a Ph.D. in Economics from the University of California, Berkeley in 2021.
 
 ## Research Interests
 My research interest lie (broadly) in the areas of macrofinance, monetary policy and banking.
