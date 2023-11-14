@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Marc Dordal i Carreras"
   avatar           : "marc_photo.png"
-  bio              : "Macroeconomics, Monetary Policy, and Banking research.<br><br> Assistant Professor at the Hong Kong University of Science and Technology, <a style='color: black;' href='https://econ.hkust.edu.hk/homepage'>Department of Economics</a>."
+  bio              : "Macrofinance, Monetary Policy, and Banking research.<br><br> Assistant Professor at the Hong Kong University of Science and Technology, <a style='color: black;' href='https://econ.hkust.edu.hk/homepage'>Department of Economics</a>."
   location         : "Hong Kong SAR"
   employer         : #"HKUST"
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -214,7 +214,8 @@ defaults:
       layout: single
       author_profile: true
       read_time: true
-      comments: true
+      show_date: false
+      comments: false
       share: true
       related: true
   # _pages
@@ -232,7 +233,8 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
+      show_date: false
   # # _publications
   # - scope:
   #     path: ""
@@ -241,7 +243,8 @@ defaults:
   #     layout: single
   #     author_profile: true
   #     share: true
-  #     comments: true
+  #     comments: false
+  #     show_date: false
   # _published_papers
   - scope:
       path: ""
@@ -250,7 +253,8 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
+      show_date: false
   # _policy_papers
   - scope:
       path: ""
@@ -259,7 +263,8 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
+      show_date: false
   # _working_papers
   - scope:
       path: ""
@@ -268,7 +273,8 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
+      show_date: false
   # _works_in_progress
   - scope:
       path: ""
@@ -277,7 +283,8 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
+      show_date: false
   # _resting_works
   - scope:
       path: ""
@@ -286,7 +293,8 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comments: true
+      comments: false
+      show_date: false
   # _portfolio
   - scope:
       path: ""
@@ -295,7 +303,8 @@ defaults:
       layout: single
       author_profile: true
       share: true
-      comment: true
+      comments: false
+      show_date: false
   # _talks
   - scope:
       path: ""
@@ -304,6 +313,7 @@ defaults:
       layout: talk
       author_profile: true
       share: true
+      show_date: false
 
 # Sass/SCSS
 sass:
