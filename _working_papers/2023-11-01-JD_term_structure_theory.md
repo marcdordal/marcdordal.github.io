@@ -3,6 +3,9 @@ title: "A Unified Theory of the Term-Structure and Monetary Stabilization"
 collection: working_papers
 permalink: /working_paper/2023-11-01-JD_term_structure_theory
 excerpt: 'We develop a New-Keynesian framework that incorporates the term-structure of financial markets and an active role for government and central bank&apos;s balance sheet size and composition. We show that financial market segmentation and the household&apos;s endogenous portfolio reallocation are crucial features to properly understand the effects of Large-Scale Asset Purchase programs and other unconventional policies.'
+coauthors: 'Seung Joo Lee'
+cv_citation_authors: 'Joo Lee, Seung, and Marc Dordal i Carreras.'
+cv_citation_other: '<i>Working Paper</i> (2023).'
 date: 2023-11-01
 venue: 'Working Paper'
 wppaperurl: 'http://marcdordal.github.io/files/WP_Term_Structure_Theory.pdf'
@@ -11,8 +14,8 @@ citation: 'Joo Lee, Seung, and Marc Dordal i Carreras. &quot;A Unified Theory of
 ---
 We develop a New-Keynesian framework that incorporates the term-structure of financial markets and an active role for government and central bank&apos;s balance sheet size and composition. We show that financial market segmentation and the household&apos;s endogenous portfolio reallocation are crucial features to properly understand the effects of Large-Scale Asset Purchase programs and other unconventional policies.
 
-[Download working paper here](http://marcdordal.github.io/files/WP_Term_Structure_Theory.pdf)
+[Download working paper here](http://marcdordal.github.io/files/WP_Term_Structure_Theory.pdf).
 
-[Download slides here](http://marcdordal.github.io/files/slides_Term_Structure_Theory.pdf)
+[Download slides here](http://marcdordal.github.io/files/slides_Term_Structure_Theory.pdf).
 
 Recommended citation: Joo Lee, Seung, and Marc Dordal i Carreras. "A Unified Theory of the Term-Structure and Monetary Stabilization."  <i>Working Paper</i> (2023).

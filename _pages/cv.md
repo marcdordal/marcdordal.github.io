@@ -49,27 +49,27 @@ Research
 ======
 ## Published/Accepted Papers
   <ul>{% for post in site.published_papers %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-publi-cv.html %}
   {% endfor %}</ul>
 
 ## Policy Papers
   <ul>{% for post in site.policy_papers %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-publi-cv.html %}
   {% endfor %}</ul>
 
 ## Working Papers
   <ul>{% for post in site.working_papers %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-publi-cv.html %}
   {% endfor %}</ul>
 
 ## In Progress
   <ul>{% for post in site.works_in_progress %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-publi-cv.html %}
   {% endfor %}</ul>
 
 ## Resting Work
   <ul>{% for post in site.resting_works %}
-    {% include archive-single-cv.html %}
+    {% include archive-single-publi-cv.html %}
   {% endfor %}</ul>
 
 Research Grants
@@ -97,8 +97,8 @@ Conferences, Events & Seminars
 * Speaker, "Asia Meeting of the Econometric Society - AMES Singapore", *NTU*, (2023).
 * Co-organizer, "HKUST/Jinan Joint Macro Workshop, 6<sup>th</sup> and 7<sup>th</sup> editions", *HKUST and Jinan University*, (2022-2024).
 * Discussant, "HKUST/Jinan Joint Macro Workshop, 5<sup>th</sup> edition", *HKUST and Jinan University*, (2021).
-* Co-organizer, "[Cryptocurrencies, Blockchains and the Digital Economy](https://cep.hkust.edu.hk/events/cryptocurrencies-blockchains-and-the-digital-economy "Cryptocurrencies, Blockchains and the Digital Economy")", *HKUST, Center for Economic Policy*, (2022).
-* Co-organizer, "[Central Bank Digital Currencies: Implementation, Applications and Challenges](https://cep.hkust.edu.hk/events/central-bank-digital-currencies-implementation-applications-and-challenges "Central Bank Digital Currencies: Implementation, Applications and Challenges")", *HKUST, Center for Economic Policy*, (2022).
+* Co-organizer, ["Cryptocurrencies, Blockchains and the Digital Economy."](https://cep.hkust.edu.hk/events/cryptocurrencies-blockchains-and-the-digital-economy "Cryptocurrencies, Blockchains and the Digital Economy") *HKUST, Center for Economic Policy*, (2022).
+* Co-organizer, ["Central Bank Digital Currencies: Implementation, Applications and Challenges."](https://cep.hkust.edu.hk/events/central-bank-digital-currencies-implementation-applications-and-challenges "Central Bank Digital Currencies: Implementation, Applications and Challenges") *HKUST, Center for Economic Policy*, (2022).
 
 Teaching
 ======
