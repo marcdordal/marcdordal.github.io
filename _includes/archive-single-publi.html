@@ -26,13 +26,13 @@
       </div>
     {% endif %}
 
-    <h2 class="archive__item-title" itemprop="headline" style="display: inline; margin-right: 5px;">
+    <h3 class="archive__item-title" itemprop="headline" style="display: inline; margin-right: 5px;">
       {% if post.link %}
         <a href="{{ post.link }}">{{ title }}</a> <a href="{{ base_path }}{{ post.url }}" rel="permalink"><i class="fa fa-link" aria-hidden="true" title="permalink"></i><span class="sr-only">Permalink</span></a>
       {% else %}
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       {% endif %}
-    </h2> <span style="font-weight: normal; display: inline; font-size: 18px;">(joint with {{ post.coauthors }})</span>
+    </h3> <span style="font-weight: normal; display: inline; font-size: 18px;">(joint with {{ post.coauthors }})</span>
 
 
     {% if post.read_time %}
