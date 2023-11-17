@@ -2,7 +2,7 @@
 date: 2023-11-01
 collection: working_papers
 permalink: /working_paper/2023-11-01-JD_term_structure_theory
-status2: 'conditional_accepted'
+status2: 'submitted'
 title: "A Unified Theory of the Term-Structure and Monetary Stabilization"
 excerpt: 'We develop a New-Keynesian framework that incorporates the term-structure of financial markets and an active role for government and central bank&apos;s balance sheet size and composition. We show that financial market segmentation and the household&apos;s endogenous portfolio reallocation are crucial features to properly understand the effects of Large-Scale Asset Purchase programs and other unconventional policies.'
 coauthors: 'Seung Joo Lee'

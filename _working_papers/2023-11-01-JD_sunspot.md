@@ -2,7 +2,7 @@
 date: 2023-11-01
 collection: working_papers
 permalink: /working_paper/2023-11-01-JD_sunspot
-status2: 'revise_resubmit'
+status2: 'submitted'
 title: "Self-fulfilling Volatility, Risk-Premium, and Business Cycles"
 excerpt: 'We develop a New-Keynesian framework with stock markets that features the potential for self-fulfilling financial uncertainty shocks. We show that conventional monetary policy rules are unable to prevent the appearance of financial sunspots, and describe the necessary conditions that restore determinacy and achieve ultra-divine coincidence: the joint stabilization of inflation, output gap, and risk-premium. We also revisit the zero lower bound (ZLB) and show it amplifies the duration, severity, and welfare costs of fluctuations in financial volatility.'
 coauthors: 'Seung Joo Lee'
