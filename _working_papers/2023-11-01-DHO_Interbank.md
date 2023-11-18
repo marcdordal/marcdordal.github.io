@@ -21,4 +21,4 @@ Abstract: We propose a model of the financial sector that captures complex relat
 
 [Download slides here](http://marcdordal.github.io/files/slides_Trade_Model_Banks.pdf).
 
-Recommended citation: Dordal i Carreras, Marc, Matthias Hoelzlein, and Jens Orben. "Efficiency, Risk and the Gains from Trade in Interbank Markets."  <i>Working Paper</i> (2023).
+Recommended citation: Dordal i Carreras, Marc, Matthias Hoelzlein, and Jens Orben. "Efficiency, Risk and the Gains from Trade in Interbank Markets."  <i>Working Paper</i> (2023). http://marcdordal.github.io/files/WP_Trade_Model_Banks.pdf

@@ -21,4 +21,4 @@ Abstract: We develop a New-Keynesian framework that incorporates the term-struct
 
 [Download slides here](http://marcdordal.github.io/files/slides_Term_Structure_Theory.pdf).
 
-Recommended citation: Joo Lee, Seung, and Marc Dordal i Carreras. "A Unified Theory of the Term-Structure and Monetary Stabilization."  <i>Working Paper</i> (2023).
+Recommended citation: Joo Lee, Seung, and Marc Dordal i Carreras. "A Unified Theory of the Term-Structure and Monetary Stabilization."  <i>Working Paper</i> (2023). http://marcdordal.github.io/files/WP_Term_Structure_Theory.pdf

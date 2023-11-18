@@ -21,4 +21,4 @@ Abstract: We develop a New-Keynesian framework with stock markets that features 
 
 [Download slides here](http://marcdordal.github.io/files/slides_Sunspot_risk_premium.pdf).
 
-Recommended citation: Joo Lee, Seung, and Marc Dordal i Carreras. "Self-fulfilling Volatility, Risk-Premium, and Business Cycles."  <i>Working Paper</i> (2023).
+Recommended citation: Joo Lee, Seung, and Marc Dordal i Carreras. "Self-fulfilling Volatility, Risk-Premium, and Business Cycles."  <i>Working Paper</i> (2023). http://marcdordal.github.io/files/WP_Sunspot_risk_premium.pdf

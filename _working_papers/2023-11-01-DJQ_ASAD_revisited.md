@@ -12,4 +12,4 @@ wppaperurl: 'http://marcdordal.github.io/files/WP_AD_AS.pdf'
 ---
 [Download working paper here](http://marcdordal.github.io/files/WP_AD_AS.pdf).
 
-Recommended citation: Dordal i Carreras, Marc, Seung Joo Lee, and Zhenghua Qi. "A Theory of Keynesian Demand and Supply Interactions under Endogenous Firm Entry. "  <i>Working Paper</i> (2023).
+Recommended citation: Dordal i Carreras, Marc, Seung Joo Lee, and Zhenghua Qi. "A Theory of Keynesian Demand and Supply Interactions under Endogenous Firm Entry. "  <i>Working Paper</i> (2023). http://marcdordal.github.io/files/WP_AD_AS.pdf

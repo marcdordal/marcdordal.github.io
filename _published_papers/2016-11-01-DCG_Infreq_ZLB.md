@@ -28,4 +28,4 @@ Abstract: Countries rarely hit the zero lower bound (ZLB) on interest rates, but
 
 [VOX-EU, CEPR Policy Portal article](https://cepr.org/voxeu/columns/infrequent-long-lived-zero-bound-episodes-and-optimal-rate-inflation#:~:text=policy%20Monetary%20Policy-,Infrequent%20but%20long%2Dlived%20zero%2Dbound%20episodes%20and,the%20optimal%20rate%20of%20inflation&text=Models%20that%20estimate%20optimal%20inflation,lack%20of%20historical%20data%20available.).
 
-Recommended citation: Dordal i Carreras, Marc, Olivier Coibion, Yuriy Gorodnichenko, and Johannes Wieland. "Infrequent but long-lived zero lower bound episodes and the optimal rate of inflation." <i>Annual Review of Economics</i> 8 (2016): 497-520.
+Recommended citation: Dordal i Carreras, Marc, Olivier Coibion, Yuriy Gorodnichenko, and Johannes Wieland. "Infrequent but long-lived zero lower bound episodes and the optimal rate of inflation." <i>Annual Review of Economics</i> 8 (2016): 497-520. https://www.annualreviews.org/doi/abs/10.1146/annurev-economics-080315-015306
