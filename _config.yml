@@ -223,7 +223,7 @@ defaults:
       path: ""
       type: pages
     values:
-      layout: single
+      layout: single-publi
       author_profile: true
       share: true
   # # _teaching
@@ -251,7 +251,7 @@ defaults:
       path: ""
       type: published_papers
     values:
-      layout: single
+      layout: single-publi
       author_profile: true
       share: true
       comments: false
@@ -261,7 +261,7 @@ defaults:
       path: ""
       type: policy_papers
     values:
-      layout: single
+      layout: single-publi
       author_profile: true
       share: true
       comments: false
@@ -271,7 +271,7 @@ defaults:
       path: ""
       type: working_papers
     values:
-      layout: single
+      layout: single-publi
       author_profile: true
       share: true
       comments: false
@@ -281,7 +281,7 @@ defaults:
       path: ""
       type: works_in_progress
     values:
-      layout: single
+      layout: single-publi
       author_profile: true
       share: true
       comments: false
@@ -291,7 +291,7 @@ defaults:
       path: ""
       type: resting_works
     values:
-      layout: single
+      layout: single-publi
       author_profile: true
       share: true
       comments: false
