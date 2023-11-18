@@ -12,27 +12,46 @@ author_profile: true
 {% include base_path %}
 
 <h2>Published Papers</h2>
+<ol style="padding-left: 20px;">
 {% for post in site.published_papers reversed %}
-  {% include archive-single-publi.html %}
+  <li style="padding-left: 5px;"> 
+    {% include archive-single-publi.html %}
+  </li>
 {% endfor %}
+</ol>
 
 <h2>Policy Papers</h2>
+<ol style="padding-left: 20px;">
 {% for post in site.policy_papers reversed %}
-  {% include archive-single-publi.html %}
+  <li style="padding-left: 5px;"> 
+    {% include archive-single-publi.html %}
+  </li>
 {% endfor %}
+</ol>
 
 <h2>Working Papers</h2>
+<ol style="padding-left: 20px;">
 {% for post in site.working_papers reversed %}
-  {% include archive-single-publi.html %}
+  <li style="padding-left: 5px;"> 
+    {% include archive-single-publi.html %}
+  </li>
 {% endfor %}
+</ol>
 
 <h2>In Progress</h2>
+<ol style="padding-left: 20px;">
 {% for post in site.works_in_progress reversed %}
-  {% include archive-single-publi.html %}
+  <li style="padding-left: 5px;"> 
+    {% include archive-single-publi.html %} 
+  </li>
 {% endfor %}
+</ol>
 
 <h2>Resting Work</h2>
+<ol style="padding-left: 20px;">
 {% for post in site.resting_works reversed %}
-  {% include archive-single-publi.html %}
+  <li style="padding-left: 5px;"> 
+    {% include archive-single-publi.html %}
+  </li>
 {% endfor %}
-
+</ol>
