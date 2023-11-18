@@ -81,5 +81,11 @@
       <p>Download <a href=" {{ post.pubpaperurl }} "><u>here</u></a></p>
     {% endif %} -->
 
+    {% if post.citation and post.custom_excerpt and post.pubpaperurl %}
+      Recommended citation: {{ post.citation }} {{ post.pubpaperurl }}
+    {% elsif post.citation and post.custom_excerpt %}
+      Recommended citation: {{ post.citation }} {{ base_path }}{{ post.url }}
+    {% endif %}
+
   </article>
 </div>

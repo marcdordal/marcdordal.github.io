@@ -14,7 +14,7 @@ author_profile: true
 <h2>Published Papers</h2>
 <ol style="padding-left: 20px;">
 {% for post in site.published_papers reversed %}
-  <li style="padding-left: 5px;"> 
+  <li style="padding-left: 5px; margin-bottom: 20px;"> 
     {% include archive-single-publi.html %}
   </li>
 {% endfor %}
@@ -23,7 +23,7 @@ author_profile: true
 <h2>Policy Papers</h2>
 <ol style="padding-left: 20px;">
 {% for post in site.policy_papers reversed %}
-  <li style="padding-left: 5px;"> 
+  <li style="padding-left: 5px; margin-bottom: 20px;"> 
     {% include archive-single-publi.html %}
   </li>
 {% endfor %}
@@ -32,7 +32,7 @@ author_profile: true
 <h2>Working Papers</h2>
 <ol style="padding-left: 20px;">
 {% for post in site.working_papers reversed %}
-  <li style="padding-left: 5px;"> 
+  <li style="padding-left: 5px; margin-bottom: 20px;"> 
     {% include archive-single-publi.html %}
   </li>
 {% endfor %}
@@ -41,7 +41,7 @@ author_profile: true
 <h2>In Progress</h2>
 <ol style="padding-left: 20px;">
 {% for post in site.works_in_progress reversed %}
-  <li style="padding-left: 5px;"> 
+  <li style="padding-left: 5px; margin-bottom: 20px;"> 
     {% include archive-single-publi.html %} 
   </li>
 {% endfor %}
@@ -50,7 +50,7 @@ author_profile: true
 <h2>Resting Work</h2>
 <ol style="padding-left: 20px;">
 {% for post in site.resting_works reversed %}
-  <li style="padding-left: 5px;"> 
+  <li style="padding-left: 5px; margin-bottom: 20px;"> 
     {% include archive-single-publi.html %}
   </li>
 {% endfor %}
