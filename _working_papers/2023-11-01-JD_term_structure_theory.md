@@ -16,6 +16,7 @@ wppaperurl: 'http://marcdordal.github.io/files/WP_Term_Structure_Theory.pdf'
 slidesurl: 'http://marcdordal.github.io/files/slides_Term_Structure_Theory.pdf'
 ---
 Abstract: We develop a New-Keynesian framework that incorporates the term-structure of financial markets and an active role for government and central bank&apos;s balance sheet size and composition. We show that financial market segmentation and the household&apos;s endogenous portfolio reallocation are crucial features to properly understand the effects of Large-Scale Asset Purchase programs and other unconventional policies.
+
 [[Draft](http://marcdordal.github.io/files/WP_Term_Structure_Theory.pdf)] [[Slides](http://marcdordal.github.io/files/slides_Term_Structure_Theory.pdf)] 
 
 Recommended citation: Joo Lee, Seung, and Marc Dordal i Carreras. "A Unified Theory of the Term-Structure and Monetary Stabilization."  <i>Working Paper</i> (2023). http://marcdordal.github.io/files/WP_Term_Structure_Theory.pdf
