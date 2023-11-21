@@ -9,4 +9,6 @@ cv_citation_authors: 'Coibion, Olivier, Marc Dordal i Carreras, Yuriy Gorodniche
 cv_citation_other: '<i>In Progress</i> (2023).'
 url_slug: 'CDGH_FOMC_transcript'
 ---
+
+
 Recommended citation: Coibion, Olivier, Marc Dordal i Carreras, Yuriy Gorodnichenko, and Cooper Howes. "What Do We Learn From Reading Every FOMC Transcript?"  <i>In Progress</i> (2023).

@@ -9,4 +9,6 @@ cv_citation_authors: 'Carruthers, Anna, Marc Dordal i Carreras, and Seung Joo Le
 cv_citation_other: '<i>In Progress</i> (2023).'
 url_slug: 'CDJ_Market_segmentation_empiric'
 ---
+
+
 Recommended citation: Carruthers, Anna, Marc Dordal i Carreras, and Seung Joo Lee. "Empirical Estimation of Bond Market Segmentation."  <i>In Progress</i> (2023).

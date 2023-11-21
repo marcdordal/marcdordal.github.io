@@ -9,4 +9,6 @@ cv_citation_authors: 'Dordal i Carreras, Marc and Seung Joo Lee.'
 cv_citation_other: '<i>Resting Work</i> (2023).'
 url_slug: 'DJ_Bank_Panics'
 ---
+
+
 Recommended citation: Dordal i Carreras, Marc and Seung Joo Lee. "The Spatial Transmission of US Banking Panics."  <i>Resting Work</i> (2023).

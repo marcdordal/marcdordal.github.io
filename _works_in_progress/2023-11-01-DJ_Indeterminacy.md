@@ -9,4 +9,6 @@ cv_citation_authors: 'Dordal i Carreras, Marc and Seung Joo Lee.'
 cv_citation_other: '<i>In Progress</i> (2023).'
 url_slug: 'DJ_Indeterminacy'
 ---
+
+
 Recommended citation: Dordal i Carreras, Marc and Seung Joo Lee. "A New Indeterminacy with Fluctuations in Volatility and Risk Premium."  <i>In Progress</i> (2023).
