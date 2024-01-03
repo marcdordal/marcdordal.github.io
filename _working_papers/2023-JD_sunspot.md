@@ -1,0 +1,22 @@
+---
+date: 11/1/2023
+collection: working_papers
+permalink: /working_paper/11/1/2023-JD_sunspot
+status2: 'submitted'
+title: "Self-fulfilling Volatility, Risk-Premium, and Business Cycles"
+excerpt: 'This paper demonstrates that in macroeconomic models with nominal rigidities, a global solution exists that supports an alternate equilibrium where traditional Taylor rules give rise to self-fulfilling aggregate volatility and excess risk-premium. Within the rational expectations framework, we establish that individually optimal, path-dependent consumption strategies can generate endogenous volatility in a self-fulfilling manner, propelling the entire economy into crises (booms) characterized by elevated (reduced) aggregate risk. This outcome stems from the inability of traditional policy rules to target the expected return on aggregate wealth, which comprises not only the policy rate but also the market risk-premium; the latter ultimately determining the degree of households&apos; intertemporal substitution. We then propose a &quot;generalized&quot; Taylor rule that targets both risk-premium and asset prices, and outline the necessary conditions to reestablish determinacy and attain what we term as the ultra-divine coincidence: the simultaneous stabilization of inflation, output gap, and the risk-premium.'
+custom_excerpt: 'true'
+abstract: 'This paper demonstrates that in macroeconomic models with nominal rigidities, a global solution exists that supports an alternate equilibrium where traditional Taylor rules give rise to self-fulfilling aggregate volatility and excess risk-premium. Within the rational expectations framework, we establish that individually optimal, path-dependent consumption strategies can generate endogenous volatility in a self-fulfilling manner, propelling the entire economy into crises (booms) characterized by elevated (reduced) aggregate risk. This outcome stems from the inability of traditional policy rules to target the expected return on aggregate wealth, which comprises not only the policy rate but also the market risk-premium; the latter ultimately determining the degree of households&apos; intertemporal substitution. We then propose a &quot;generalized&quot; Taylor rule that targets both risk-premium and asset prices, and outline the necessary conditions to reestablish determinacy and attain what we term as the ultra-divine coincidence: the simultaneous stabilization of inflation, output gap, and the risk-premium.'
+coauthors: 'Seung Joo Lee'
+citation: 'Joo Lee, Seung, and Marc Dordal i Carreras. &quot;Self-fulfilling Volatility, Risk-Premium, and Business Cycles.&quot;  <i>Working Paper</i> (2023).'
+cv_citation_authors: 'Joo Lee, Seung, and Marc Dordal i Carreras.'
+cv_citation_other: '<i>Working Paper</i> (2023).'
+url_slug: 'JD_sunspot'
+wppaperurl: 'http://marcdordal.github.io/files/WP_Sunspot_risk_premium.pdf'
+slidesurl: 'http://marcdordal.github.io/files/slides_Sunspot_risk_premium.pdf'
+---
+Abstract: This paper demonstrates that in macroeconomic models with nominal rigidities, a global solution exists that supports an alternate equilibrium where traditional Taylor rules give rise to self-fulfilling aggregate volatility and excess risk-premium. Within the rational expectations framework, we establish that individually optimal, path-dependent consumption strategies can generate endogenous volatility in a self-fulfilling manner, propelling the entire economy into crises (booms) characterized by elevated (reduced) aggregate risk. This outcome stems from the inability of traditional policy rules to target the expected return on aggregate wealth, which comprises not only the policy rate but also the market risk-premium; the latter ultimately determining the degree of households&apos; intertemporal substitution. We then propose a &quot;generalized&quot; Taylor rule that targets both risk-premium and asset prices, and outline the necessary conditions to reestablish determinacy and attain what we term as the ultra-divine coincidence: the simultaneous stabilization of inflation, output gap, and the risk-premium.
+
+[[Draft](http://marcdordal.github.io/files/WP_Sunspot_risk_premium.pdf)] [[Slides](http://marcdordal.github.io/files/slides_Sunspot_risk_premium.pdf)] 
+
+Recommended citation: Joo Lee, Seung, and Marc Dordal i Carreras. "Self-fulfilling Volatility, Risk-Premium, and Business Cycles."  <i>Working Paper</i> (2023). http://marcdordal.github.io/files/WP_Sunspot_risk_premium.pdf

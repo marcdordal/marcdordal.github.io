@@ -1,0 +1,14 @@
+---
+date: 11/1/2023
+collection: works_in_progress
+permalink: /work_in_progress/11/1/2023-CDJ_Market_segmentation_empiric
+title: "Empirical Estimation of Bond Market Segmentation"
+coauthors: 'Anna Carruthers and Seung Joo Lee'
+citation: 'Carruthers, Anna, Marc Dordal i Carreras, and Seung Joo Lee. &quot;Empirical Estimation of Bond Market Segmentation.&quot;  <i>In Progress</i> (2023).'
+cv_citation_authors: 'Carruthers, Anna, Marc Dordal i Carreras, and Seung Joo Lee.'
+cv_citation_other: '<i>In Progress</i> (2023).'
+url_slug: 'CDJ_Market_segmentation_empiric'
+---
+
+
+Recommended citation: Carruthers, Anna, Marc Dordal i Carreras, and Seung Joo Lee. "Empirical Estimation of Bond Market Segmentation."  <i>In Progress</i> (2023).
