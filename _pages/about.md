@@ -16,9 +16,9 @@ I graduated with a Ph.D. in Economics from the University of California, Berkele
 ## Research Interests
 My research interest lie (broadly) in the areas of macrofinance, monetary policy and banking.
 
-## Current Teaching (Fall 2023)
+<!-- ## Current Teaching (Fall 2024)
 * Econ 2123, Macroeconomics (UG), sections L01 and L10.
-* Econ 5250, Macroeconomic Theory I (PG).
+* Econ 5250, Macroeconomic Theory I (PG). -->
 
 <!-- ## Contact Information
 * Email: [marcdordal@ust.hk](marcdordal@ust.hk "marcdordal@ust.hk").
