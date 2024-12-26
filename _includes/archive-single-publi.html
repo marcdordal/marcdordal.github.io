@@ -50,6 +50,8 @@
       <p>Accepted subject to revisions in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.status2 == 'revise_resubmit' %}
       <p>Revise and Resubmit for <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+    {% elsif post.status2 == 'reject_resubmit' %}
+      <p>ReJect and Resubmit for <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.status2 == 'submitted' %}
       <p><i>Submitted</i> </p>
     {% elsif post.collection == 'published_papers' %}

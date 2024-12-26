@@ -47,6 +47,8 @@ layout: default
           <p>Accepted subject to revisions in <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.status2 == 'revise_resubmit' %}
           <p>Revise and Resubmit for <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
+        {% elsif page.status2 == 'reject_resubmit' %}
+          <p>Reject and Resubmit for <i>{{ page.venue }}</i>, {{ page.date | default: "1900-01-01" | date: "%Y" }} </p>
         {% elsif page.status2 == 'submitted' %}
           <p><i>Submitted</i> </p>
         {% elsif page.collection == 'published_papers' %}
