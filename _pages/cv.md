@@ -67,8 +67,8 @@ Research
     {% include archive-single-publi-cv.html %}
   {% endfor %}</ul>
 
-## Resting Work
 {% if site.resting_works.size > 0 %}
+## Resting Work
   <ul>{% for post in site.resting_works %}
     {% include archive-single-publi-cv.html %}
   {% endfor %}</ul>
