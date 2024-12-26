@@ -1,7 +1,7 @@
 ---
-date: 12/26/2024
+date: 26/12/2024
 collection: working_papers
-permalink: /working_paper/12/26/2024-DKJG_eHKD_pilot
+permalink: /working_paper/26/12/2024-DKJG_eHKD_pilot
 status2: 'submitted'
 title: "Consumer Perceptions and Willingness to Adopt rCBDCs Before and After the e-HKD Pilot"
 excerpt: 'This study explores public perceptions of retail central bank digital currency (rCBDC) adoption through a pilot e-HKD payment system in Hong Kong. Surveys conducted before and after participants used the prototype revealed initially positive attitudes, with perceptions shifting significantly after the experience, particularly regarding security, ease of use, and promotional features. The findings highlight the importance of consumer perceptions, their susceptibility to change through exposure, and the need for cautious interpretation of survey data in this area.'

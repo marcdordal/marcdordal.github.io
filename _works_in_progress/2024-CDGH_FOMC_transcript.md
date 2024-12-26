@@ -1,7 +1,7 @@
 ---
-date: 11/1/2023
+date: 11/1/2024
 collection: works_in_progress
-permalink: /work_in_progress/11/1/2023-CDGH_FOMC_transcript
+permalink: /work_in_progress/11/1/2024-CDGH_FOMC_transcript
 title: "What Do We Learn From Reading Every FOMC Transcript?"
 coauthors: 'Olivier Coibion, Yuriy Gorodnichenko and Cooper Howes'
 citation: 'Coibion, Olivier, Marc Dordal i Carreras, Yuriy Gorodnichenko, and Cooper Howes. &quot;What Do We Learn From Reading Every FOMC Transcript?&quot;  <i>In Progress</i> (2023).'

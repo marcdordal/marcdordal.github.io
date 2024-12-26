@@ -1,7 +1,7 @@
 ---
-date: 11/1/2023
+date: 11/1/2024
 collection: works_in_progress
-permalink: /work_in_progress/11/1/2023-DJ_Indeterminacy
+permalink: /work_in_progress/11/1/2024-DJ_Indeterminacy
 title: "A New Indeterminacy with Fluctuations in Volatility and Risk Premium"
 coauthors: 'Seung Joo Lee'
 citation: 'Dordal i Carreras, Marc and Seung Joo Lee. &quot;A New Indeterminacy with Fluctuations in Volatility and Risk Premium.&quot;  <i>In Progress</i> (2023).'
