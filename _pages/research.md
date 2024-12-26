@@ -47,11 +47,22 @@ author_profile: true
 {% endfor %}
 </ol>
 
-<h2>Resting Work</h2>
+<!-- <h2>Resting Work</h2>
 <ol style="padding-left: 20px;">
 {% for post in site.resting_works reversed %}
   <li style="padding-left: 5px; margin-bottom: 20px;"> 
     {% include archive-single-publi.html %}
   </li>
 {% endfor %}
+</ol> -->
+
+{% if site.resting_works %}
+<h2>Resting Work</h2>
+<ol style="padding-left: 20px;">
+  {% for post in site.resting_works reversed %}
+    <li style="padding-left: 5px; margin-bottom: 20px;"> 
+      {% include archive-single-publi.html %}
+    </li>
+  {% endfor %}
 </ol>
+{% endif %}

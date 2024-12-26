@@ -1,7 +1,7 @@
 ---
-date: 8/1/2024
+date: 26/12/2024
 collection: working_papers
-permalink: /working_paper/8/1/2024-JD_term_structure_theory
+permalink: /working_paper/26/12/2024-JD_term_structure_theory
 status2: 'submitted'
 title: "A Unified Theory of the Term-Structure and Monetary Stabilization"
 excerpt: 'We develop a New-Keynesian framework that incorporates the term-structure of financial markets and emphasizes the active role of the government and central bank&apos;s balance sheet size and composition. We demonstrate that the financial market segmentation and the household&apos;s endogenous portfolio reallocation are crucial features for accurately understanding the effects of Large-Scale Asset Purchase (LSAP) programs. Our micro-foundation based on imperfect information about expected discounted asset returns readily accommodates varying degrees of market segmentation across asset classes and maturities, based on estimable asset demand elasticities. The central bank&apos;s bond purchases across maturities serve as a major determinant of the level and slope of the term-structure, and yield-curve-control (YCC) policies that actively manipulate long-term yields are highly effective in terms of stabilization during both normal times and at the ZLB. However, YCC policies also increase the duration of ZLB episodes, consequently placing the central bank in a position where the short-term rate becomes a less useful policy tool.'
