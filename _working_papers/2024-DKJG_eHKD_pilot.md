@@ -1,0 +1,21 @@
+---
+date: 12/26/2024
+collection: working_papers
+permalink: /working_paper/12/26/2024-DKJG_eHKD_pilot
+status2: 'submitted'
+title: "Consumer Perceptions and Willingness to Adopt rCBDCs Before and After the e-HKD Pilot"
+excerpt: 'This study explores public perceptions of retail central bank digital currency (rCBDC) adoption through a pilot e-HKD payment system in Hong Kong. Surveys conducted before and after participants used the prototype revealed initially positive attitudes, with perceptions shifting significantly after the experience, particularly regarding security, ease of use, and promotional features. The findings highlight the importance of consumer perceptions, their susceptibility to change through exposure, and the need for cautious interpretation of survey data in this area.'
+custom_excerpt: 'true'
+abstract: 'This study investigates the public&apos;s perception of retail central bank digital currency (rCBDC) and identifies the factors influencing its adoption. Conducted in collaboration with a prominent bank in Hong Kong, this research involved a hands-on experience with a prototype payment system making using of an e-HKD, being an rCBDC which could be implemented in Hong Kong. Participants&apos; opinions on rCBDCs were assessed through surveys conducted before and after their engagement with the e-HKD pilot. Initially, participants displayed a broadly positive attitude towards rCBDC, although no single factor emerged as a decisive influence on their adoption decision. However, the pilot experience statistically significantly altered perceptions, particularly regarding security, ease of payment, and promotional functions, thereby impacting their willingness to adopt rCBDC. This study underscores the importance of understanding consumer perceptions and suggests that these perceptions are subject to change through exposure to regulatory information campaigns, prototype experiences, and initial models. Consequently, the study recommends a cautious approach to interpreting the reliability of existing survey findings in this domain.'
+coauthors: 'Kohei Kawaguchi, Si Yuan Jin and Haicheng Guo'
+citation: 'Dordal i Carreras, Marc, Kohei Kawaguchi, Si Yuan Jin and Haicheng Guo. &quot;Consumer Perceptions and Willingness to Adopt rCBDCs Before and After the e-HKD Pilot.&quot;  <i>In Progress</i> (2024).'
+cv_citation_authors: 'Dordal i Carreras, Marc, Kohei Kawaguchi, Si Yuan Jin and Haicheng Guo'
+cv_citation_other: '<i>Working Paper</i> (2024).'
+url_slug: 'DKJG_eHKD_pilot'
+wppaperurl: 'http://marcdordal.github.io/files/WP_rCBDC_Taste_and_Perception.pdf'
+---
+Abstract: This study investigates the public&apos;s perception of retail central bank digital currency (rCBDC) and identifies the factors influencing its adoption. Conducted in collaboration with a prominent bank in Hong Kong, this research involved a hands-on experience with a prototype payment system making using of an e-HKD, being an rCBDC which could be implemented in Hong Kong. Participants&apos; opinions on rCBDCs were assessed through surveys conducted before and after their engagement with the e-HKD pilot. Initially, participants displayed a broadly positive attitude towards rCBDC, although no single factor emerged as a decisive influence on their adoption decision. However, the pilot experience statistically significantly altered perceptions, particularly regarding security, ease of payment, and promotional functions, thereby impacting their willingness to adopt rCBDC. This study underscores the importance of understanding consumer perceptions and suggests that these perceptions are subject to change through exposure to regulatory information campaigns, prototype experiences, and initial models. Consequently, the study recommends a cautious approach to interpreting the reliability of existing survey findings in this domain.
+
+[[Draft](http://marcdordal.github.io/files/WP_rCBDC_Taste_and_Perception.pdf)] 
+
+Recommended citation: Dordal i Carreras, Marc, Kohei Kawaguchi, Si Yuan Jin and Haicheng Guo. "Consumer Perceptions and Willingness to Adopt rCBDCs Before and After the e-HKD Pilot."  <i>In Progress</i> (2024). http://marcdordal.github.io/files/WP_rCBDC_Taste_and_Perception.pdf
