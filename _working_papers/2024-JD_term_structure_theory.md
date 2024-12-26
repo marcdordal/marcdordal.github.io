@@ -1,0 +1,23 @@
+---
+date: 26/12/2024
+collection: working_papers
+permalink: /working_paper/26/12/2024-JD_term_structure_theory
+status2: 'reject_resubmit'
+title: "A Unified Theory of the Term-Structure and Monetary Stabilization"
+venue: 'Journal of Money, Credit and Banking'
+excerpt: 'We develop a New-Keynesian framework that incorporates the term-structure of financial markets and emphasizes the active role of the government and central bank&apos;s balance sheet size and composition. We demonstrate that the financial market segmentation and the household&apos;s endogenous portfolio reallocation are crucial features for accurately understanding the effects of Large-Scale Asset Purchase (LSAP) programs. Our micro-foundation based on imperfect information about expected discounted asset returns readily accommodates varying degrees of market segmentation across asset classes and maturities, based on estimable asset demand elasticities. The central bank&apos;s bond purchases across maturities serve as a major determinant of the level and slope of the term-structure, and yield-curve-control (YCC) policies that actively manipulate long-term yields are highly effective in terms of stabilization during both normal times and at the ZLB. However, YCC policies also increase the duration of ZLB episodes, consequently placing the central bank in a position where the short-term rate becomes a less useful policy tool.'
+custom_excerpt: 'true'
+abstract: 'We develop a New-Keynesian framework that incorporates the term-structure of financial markets and emphasizes the active role of the government and central bank&apos;s balance sheet size and composition. We demonstrate that the financial market segmentation and the household&apos;s endogenous portfolio reallocation are crucial features for accurately understanding the effects of Large-Scale Asset Purchase (LSAP) programs. Our micro-foundation based on imperfect information about expected discounted asset returns readily accommodates varying degrees of market segmentation across asset classes and maturities, based on estimable asset demand elasticities. The central bank&apos;s bond purchases across maturities serve as a major determinant of the level and slope of the term-structure, and yield-curve-control (YCC) policies that actively manipulate long-term yields are highly effective in terms of stabilization during both normal times and at the ZLB. However, YCC policies also increase the duration of ZLB episodes, consequently placing the central bank in a position where the short-term rate becomes a less useful policy tool.'
+coauthors: 'Seung Joo Lee'
+citation: 'Joo Lee, Seung, and Marc Dordal i Carreras. &quot;A Unified Theory of the Term-Structure and Monetary Stabilization.&quot;  <i>Working Paper</i> (2024).'
+cv_citation_authors: 'Joo Lee, Seung, and Marc Dordal i Carreras.'
+cv_citation_other: '<i>Working Paper</i> (2024).'
+url_slug: 'JD_term_structure_theory'
+wppaperurl: 'http://marcdordal.github.io/files/WP_Term_Structure_Theory.pdf'
+slidesurl: 'http://marcdordal.github.io/files/slides_Term_Structure_Theory.pdf'
+---
+Abstract: We develop a New-Keynesian framework that incorporates the term-structure of financial markets and emphasizes the active role of the government and central bank&apos;s balance sheet size and composition. We demonstrate that the financial market segmentation and the household&apos;s endogenous portfolio reallocation are crucial features for accurately understanding the effects of Large-Scale Asset Purchase (LSAP) programs. Our micro-foundation based on imperfect information about expected discounted asset returns readily accommodates varying degrees of market segmentation across asset classes and maturities, based on estimable asset demand elasticities. The central bank&apos;s bond purchases across maturities serve as a major determinant of the level and slope of the term-structure, and yield-curve-control (YCC) policies that actively manipulate long-term yields are highly effective in terms of stabilization during both normal times and at the ZLB. However, YCC policies also increase the duration of ZLB episodes, consequently placing the central bank in a position where the short-term rate becomes a less useful policy tool.
+
+[[Draft](http://marcdordal.github.io/files/WP_Term_Structure_Theory.pdf)] [[Slides](http://marcdordal.github.io/files/slides_Term_Structure_Theory.pdf)] 
+
+Recommended citation: Joo Lee, Seung, and Marc Dordal i Carreras. "A Unified Theory of the Term-Structure and Monetary Stabilization."  <i>Working Paper</i> (2024). http://marcdordal.github.io/files/WP_Term_Structure_Theory.pdf
