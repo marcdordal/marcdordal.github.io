@@ -56,7 +56,7 @@ author_profile: true
 {% endfor %}
 </ol> -->
 
-{% if site.resting_works %}
+{% if site.resting_works.size > 0 %}
 <h2>Resting Work</h2>
 <ol style="padding-left: 20px;">
   {% for post in site.resting_works reversed %}
