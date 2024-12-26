@@ -68,9 +68,11 @@ Research
   {% endfor %}</ul>
 
 ## Resting Work
+{% if site.resting_works.size > 0 %}
   <ul>{% for post in site.resting_works %}
     {% include archive-single-publi-cv.html %}
   {% endfor %}</ul>
+{% endif %}
 
 Research Grants
 ======
