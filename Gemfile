@@ -1,34 +1,17 @@
 source "https://rubygems.org"
 
-# Hello! This is where you manage which Jekyll version is used to run.
-# When you want to use a different version, change it below, save the
-# file and run `bundle install`. Run Jekyll with `bundle exec`, like so:
-#
-#     bundle exec jekyll serve
-#
-# This will help ensure the proper Jekyll version is running.
-# Happy Jekylling!
+# Use the GitHub Pages gem to ensure compatibility with GitHub Pages
+gem "github-pages", "~> 232", group: :jekyll_plugins
 
-gem "github-pages", group: :jekyll_plugins
-
-# If you want to use Jekyll native, uncomment the line below.
-# To upgrade, run `bundle update`.
-
-# gem "jekyll"
-
+# Windows-specific dependency for file watching
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
-# If you have any plugins, put them here!
-group :jekyll_plugins do
-  # gem "jekyll-archives"
-  gem "jekyll-feed"
-  gem 'jekyll-sitemap'
-  gem 'hawkins'
-end
+gem 'tzinfo-data'
 
-gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw, :jruby]
-gem 'webrick'
+# Include webrick for local server capabilities with Ruby 3.x
+gem "webrick"
 
-gem 'faraday'
-gem 'faraday-retry'
+# HTTP client library dependencies
+gem "faraday"
+gem "faraday-retry"
 
