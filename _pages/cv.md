@@ -128,7 +128,7 @@ Conferences & Events Local Organizing Activities
 ======
 * International Conference on Central Bank Digital Currencies and Payment Systems, *HKMA, AoF/HKIMR and HKUST*, (2024).
 * HKUST/Jinan Joint Macro Workshop, 6<sup>th</sup> - 8<sup>th</sup> editions, *HKUST and Jinan University*, (2022-2024).
-* Hong Kong Junior Macro Workshop, 5<sup>th</sup> edition, (2022).
+* Hong Kong Junior Macro Workshop, 5<sup>th</sup> edition, *HKUST*, (2022).
 * ["Cryptocurrencies, Blockchains and the Digital Economy."](https://cep.hkust.edu.hk/events/cryptocurrencies-blockchains-and-the-digital-economy "Cryptocurrencies, Blockchains and the Digital Economy") *HKUST, Center for Economic Policy*, (2022).
 * ["Central Bank Digital Currencies: Implementation, Applications and Challenges."](https://cep.hkust.edu.hk/events/central-bank-digital-currencies-implementation-applications-and-challenges "Central Bank Digital Currencies: Implementation, Applications and Challenges") *HKUST, Center for Economic Policy*, (2022).
 
