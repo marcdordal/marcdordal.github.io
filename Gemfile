@@ -4,7 +4,7 @@ source "https://rubygems.org"
 gem "github-pages", "~> 232", group: :jekyll_plugins
 
 # Windows-specific dependency for file watching
-gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem 'wdm', '~> 0.2.0', platforms: [:mingw, :x64_mingw, :mswin]
 
 gem 'tzinfo-data'
 
