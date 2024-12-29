@@ -19,8 +19,8 @@ Current Affiliations
 Education
 ======
 * Ph.D. in Economics, *University of California, Berkeley*, 2021.
-  * Thesis advisor: Yuriy Gorodnichenko.
-  * Credential ID: 211KOAXWM9SX [Show Credential](https://registrar.berkeley.edu/credential-validation/){: .btn}
+  * Thesis Committee: Yuriy Gorodnichenko (chair), Andr&eacute;s Rodr&iacute;guez-Clare, Christina Romer.
+  * Credential ID: 211KOAXWM9SX [Show Credential](https://registrar.berkeley.edu/credential-validation/){: .btn target="_blank"}
 * M.Res. in Economics, Finance and Management, *Universitat Pompeu Fabra*, 2013.
 * M.Sc. in Economics and Finance, *Barcelona School of Economics*, 2012.
 * B.S. (Llicenciatura) in Economics, *Universitat Pompeu Fabra*, 2011.
@@ -107,20 +107,34 @@ Service and Leadership
 * Co-organizer, Macro Reading group and Research Postgraduate Student Workshop.
 <!-- * Dordal i Carreras, Marc, Kohei Kawaguchi, Edwin L.C. Lai, "Estimating demand for e-HKD and assessing its impacts on Hong Kong economy", *Research Assessment Exercise*, (2026). -->
 
+Conferences, Events & Seminars (including scheduled, * by co-authors)
+======
+<span style="font-size: 1.1em; font-weight: bold;">2024 - </span> IV Winter Workshop, Societat d'Economia Catalana; 2024 European Winter Meeting of the Econometric Society (EWMES 2024), Universitat de les Illes Balears; Econometric Society Australasian Meetings (ESAM2024), Monash University; International Macro History Online Seminar Series (IMHOS - Graduate Institute's Centre for Finance and Development and CEPR)\*; London Juniors Finance Workshop (Imperial College London)\*; Sa&iuml;d Business School Finance Jamboree\*; 2024 Asia Meeting of the Econometric Society in China (AMES2024-China), Zhejiang University; 7<sup>th</sup> HKUST/Jinan Joint Macro Workshop; 2024 Asia Meeting of the Econometric Society, East & Southeast Asia (AMES-E/SE) (declined); CREI-UPF Macroeconomics Seminar; 2024 Annual Meeting Society for Economic Dynamics (SED2024)\*; 2024 Econometric Society North America Summer Meeting (NASM2024)\*; International Conference on Central Bank Digital Currencies and Payment Systems, HKMA, AoF/HKIMR and HKUST; Center for Economic Policy Brownbag seminar, HKUST.
+
+<span style="font-size: 1.1em; font-weight: bold;">2023 - </span> Tsinghua School of Economics and Management; East Asia Macroeconomics Conference, CUHK; Asia Meeting of the Econometric Society (AMES Singapore), NTU Singapore; 6<sup>th</sup> HKUST/Jinan Joint Macro Workshop; 11<sup>th</sup> Meeting of the Hong Kong Junior Macro Group; UT Austin - McCombs (finance)\*; Oxford (economics department's macro seminar)\*.
+
+<span style="font-size: 1.1em; font-weight: bold;">2022 - </span> 5<sup>th</sup> HKUST/Jinan Joint Macro Workshop; 5<sup>th</sup> Meeting of the Hong Kong Junior Macro Group; Canadian Economics Association Meetings (CEA 2022)\*; Oxford Saïd – Risk Centre at ETH Zürich Macro-Finance Conference 2022 (at Oxford)\*; The University of Hong Kong (macro)\*; Princeton (macro internal)\*; Princeton (finance internal)\*.
+
+<span style="font-size: 1.1em; font-weight: bold;">2021 - </span> UC Berkeley (macro lunch, GEMS); Federal Reserve Board of Governors (Financial Stability Division and International Finance Division)\*; University of Oxford - Saïd (finance)\*; The University of Hong Kong (macro)\*; NYU - Stern and NYU - Shanghai (finance)\*; Bank of Canada\*.
+
+
+Conference Paper Discussant
+======
+* The Sixth China International Conference in Macroeconomics (CICM2024), discussant for "A Macroeconomic Model with Bond Market Liquidity" by Huifeng Chang, (2024).
+* EFG and CUHK(SZ) Joint Macro Workshop on "Expectations, Information Frictions and Economic Policy", discussant for "Inflation Disagreement Weakens the Power of Monetary Policy" by Ding Dong, Zheng Liu, Pengfei Wang, and Min Wei, (2024).
+* HKUST/Jinan Joint Macro Workshop, 4<sup>th</sup> edition, discussant for "Flattening of the Phillips Curve: Causes and Their Policy Implications" by Chen Kan, (2021).
+
+Conferences & Events Local Organizing Activities
+======
+* International Conference on Central Bank Digital Currencies and Payment Systems, *HKMA, AoF/HKIMR and HKUST*, (2024).
+* HKUST/Jinan Joint Macro Workshop, 6<sup>th</sup> - 8<sup>th</sup> editions, *HKUST and Jinan University*, (2022-2024).
+* Hong Kong Junior Macro Workshop, 5<sup>th</sup> edition, (2022).
+* ["Cryptocurrencies, Blockchains and the Digital Economy."](https://cep.hkust.edu.hk/events/cryptocurrencies-blockchains-and-the-digital-economy "Cryptocurrencies, Blockchains and the Digital Economy") *HKUST, Center for Economic Policy*, (2022).
+* ["Central Bank Digital Currencies: Implementation, Applications and Challenges."](https://cep.hkust.edu.hk/events/central-bank-digital-currencies-implementation-applications-and-challenges "Central Bank Digital Currencies: Implementation, Applications and Challenges") *HKUST, Center for Economic Policy*, (2022).
+
 Public Engagement
 ======
 * Interviwee for CREACCIÓ / Observatori Socioeconòmic d'Osona, El 9 Nou and Osona.com, "El Talent Convidat". Digital media: [Web DOT - Talent Osona](https://dotosona.com/entrevistes/marc-dordal/ "https://dotosona.com/entrevistes/marc-dordal/"), [El 9 Nou](https://el9nou.cat/osona-ripolles/actualitat/marc-dordal-hong-kong-xina-estats-units-europa-economia-moneda-banc-central-inflacio/ "https://el9nou.cat/osona-ripolles/actualitat/marc-dordal-hong-kong-xina-estats-units-europa-economia-moneda-banc-central-inflacio/"), [Osona.com](https://naciodigital.cat/osona/economia/abans-xina-fabricava-productes-menys-valor-afegit-ara-ja-no_2050322_102.html "https://naciodigital.cat/osona/economia/abans-xina-fabricava-productes-menys-valor-afegit-ara-ja-no_2050322_102.html"), [CREACCIÓ - Youtube](https://www.youtube.com/watch?v=XBxQ4JU_bOE&ab_channel=Creacci%C3%B3 "https://www.youtube.com/watch?v=XBxQ4JU_bOE&ab_channel=Creacci%C3%B3").
-
-Conferences, Events & Seminars (including scheduled, * by co-authors)
-======
-<!-- * Co-organizer, "name and link to conference", HKUST and HKMA, (2024, forthcoming).
-* Speaker, *Tsinghua SEM*, (2023). -->
-* Speaker, "East Asia Macroeconomics Conference", *CUHK*, (2023).
-* Speaker, "Asia Meeting of the Econometric Society - AMES Singapore", *NTU*, (2023).
-* Co-organizer, "HKUST/Jinan Joint Macro Workshop, 6<sup>th</sup> - 8<sup>th</sup> editions", *HKUST and Jinan University*, (2022-2024).
-* Discussant, "HKUST/Jinan Joint Macro Workshop, 5<sup>th</sup> edition", *HKUST and Jinan University*, (2021).
-* Co-organizer, ["Cryptocurrencies, Blockchains and the Digital Economy."](https://cep.hkust.edu.hk/events/cryptocurrencies-blockchains-and-the-digital-economy "Cryptocurrencies, Blockchains and the Digital Economy") *HKUST, Center for Economic Policy*, (2022).
-* Co-organizer, ["Central Bank Digital Currencies: Implementation, Applications and Challenges."](https://cep.hkust.edu.hk/events/central-bank-digital-currencies-implementation-applications-and-challenges "Central Bank Digital Currencies: Implementation, Applications and Challenges") *HKUST, Center for Economic Policy*, (2022).
 
 <!-- Talks
 ======
