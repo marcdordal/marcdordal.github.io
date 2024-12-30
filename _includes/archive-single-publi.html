@@ -85,22 +85,22 @@
 
   <p>
   {% if post.pubpaperurl %}
-    [<a href="{{ post.pubpaperurl }}">Publication</a>]
+    [<a href="{{ post.pubpaperurl }}" target="_blank">Publication</a>]
   {% endif %}
   {% if post.wppaperurl %}
-    [<a href="{{ post.wppaperurl }}">Draft</a>]
+    [<a href="{{ post.wppaperurl }}" target="_blank">Draft</a>]
   {% endif %}
   {% if post.slidesurl %}
-    [<a href="{{ post.slidesurl }}">Slides</a>]
+    [<a href="{{ post.slidesurl }}" target="_blank">Slides</a>]
   {% endif %}
   {% if post.opt0text and post.opt0url %}
-    [<a href="{{ post.opt0url }}">{{ post.opt0text }}</a>]
+    [<a href="{{ post.opt0url }}" target="_blank">{{ post.opt0text }}</a>]
   {% endif %}
   {% if post.opt1text and post.opt1url %}
-    [<a href="{{ post.opt1url }}">{{ post.opt1text }}</a>]
+    [<a href="{{ post.opt1url }}" target="_blank">{{ post.opt1text }}</a>]
   {% endif %}
   {% if post.opt2text and post.opt2url %}
-    [<a href="{{ post.opt2url }}">{{ post.opt2text }}</a>]
+    [<a href="{{ post.opt2url }}" target="_blank">{{ post.opt2text }}</a>]
   {% endif %}
   </p>
 

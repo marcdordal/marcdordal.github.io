@@ -17,6 +17,6 @@ slidesurl: 'http://marcdordal.github.io/files/slides_Sunspot_risk_premium.pdf'
 ---
 Abstract: We demonstrate that macroeconomic models with nominal rigidities feature multiple global solutions supporting alternative equilibria traditionally overlooked in the literature. In these equilibria, conventional Taylor rules give rise to self-fulfilling aggregate volatility, propelling the economy into crises (booms) characterized by elevated (reduced) aggregate risk. This outcome stems from the inability of conventional rules to target the expected growth rate of output, which is determined not only by the policy rate but also by the strength of the precautionary savings channel. We propose a new policy rule that targets both conventional mandates and aggregate volatility, reestablishing determinacy and achieving full stabilization.
 
-[[Draft](http://marcdordal.github.io/files/WP_Sunspot_risk_premium.pdf)] [[Slides](http://marcdordal.github.io/files/slides_Sunspot_risk_premium.pdf)] 
+[[Draft](http://marcdordal.github.io/files/WP_Sunspot_risk_premium.pdf){: target="_blank" }] [[Slides](http://marcdordal.github.io/files/slides_Sunspot_risk_premium.pdf){: target="_blank" }] 
 
 Recommended citation: Joo Lee, Seung, and Marc Dordal i Carreras. "Self-fulfilling Volatility and a New Monetary Policy."  <i>Working Paper</i> (2024). http://marcdordal.github.io/files/WP_Sunspot_risk_premium.pdf

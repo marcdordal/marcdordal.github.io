@@ -17,5 +17,5 @@ opt1url: 'http://marcdordal.github.io/files/PP_HKMA_eHKD_Policy_Report.pdf'
 Abstract: The e-HKD Pilot Programme is a key component of the HKMA&apos;s three-rail approach in paving the way for a possible implementation of a retail central bank digital currency (CBDC). The pilot programme enables HKMA&apos;s collaboration with the industry to examine innovative use cases and maximise Hong Kong&apos;s readiness for a potential e-HKD. The Hongkong and Shanghai Banking Corporation Limited (HSBC) was one of the institutions selected to participate. Collaborating with the Hong Kong University of Science and Technology (HKUST), HSBC sought to explore possible e-HKD every-day payment use cases, focusing on programmability as a value-add feature of digital currency as well as payment rail efficiency. HSBC and HKUST constructed a one-week pilot on the HKUST campus, which included 148 students and 5 merchants.
 
 
-[[e-HKD Pilot summary results](http://marcdordal.github.io/files/PP_hypothetical-e-hkd-phase-1-pilot-factsheet-en.pdf)] 
-[[HKMA e-HKD Pilot Phase 1 Report](http://marcdordal.github.io/files/PP_HKMA_eHKD_Policy_Report.pdf)] 
+[[e-HKD Pilot summary results](http://marcdordal.github.io/files/PP_hypothetical-e-hkd-phase-1-pilot-factsheet-en.pdf){: target="_blank" }] 
+[[HKMA e-HKD Pilot Phase 1 Report](http://marcdordal.github.io/files/PP_HKMA_eHKD_Policy_Report.pdf){: target="_blank" }] 

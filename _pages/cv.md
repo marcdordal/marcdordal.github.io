@@ -9,8 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-
-You can download a <kbd>.pdf</kbd> version of my [CV here](http://marcdordal.github.io/files/CV_Marc_Dordal.pdf "CV Marc Dordal").
+You can download a <kbd>.pdf</kbd> version of my [CV here](http://marcdordal.github.io/files/CV_Marc_Dordal.pdf "CV Marc Dordal"){: target="_blank"}.
 
 Current Affiliations
 ======
@@ -85,8 +84,8 @@ Journal of Monetary Economics; The Review of Economics and Statistics; Pacific E
 
 Ph.D. Student Supervision
 ======
-* Chen (Cassie) XIANG (main supervisor), [webpage](https://cassiexiang.github.io/ "https://cassiexiang.github.io/").
-* Zhenghua QI (co-supervisor), [webpage](https://zhenghua-qi.github.io/ "https://zhenghua-qi.github.io/").
+* Chen (Cassie) XIANG (main supervisor), [webpage](https://cassiexiang.github.io/ "https://cassiexiang.github.io/"){: target="_blank"}.
+* Zhenghua QI (co-supervisor), [webpage](https://zhenghua-qi.github.io/ "https://zhenghua-qi.github.io/"){: target="_blank"}.
 * Hongwei Zou (main supervisor).
 * Yueqi Wu (co-supervisor).
 
@@ -129,12 +128,12 @@ Conferences & Events Local Organizing Activities
 * International Conference on Central Bank Digital Currencies and Payment Systems, *HKMA, AoF/HKIMR and HKUST*, (2024).
 * HKUST/Jinan Joint Macro Workshop, 6<sup>th</sup> - 8<sup>th</sup> editions, *HKUST and Jinan University*, (2022-2024).
 * Hong Kong Junior Macro Workshop, 5<sup>th</sup> edition, *HKUST*, (2022).
-* ["Cryptocurrencies, Blockchains and the Digital Economy."](https://cep.hkust.edu.hk/events/cryptocurrencies-blockchains-and-the-digital-economy "Cryptocurrencies, Blockchains and the Digital Economy") *HKUST, Center for Economic Policy*, (2022).
-* ["Central Bank Digital Currencies: Implementation, Applications and Challenges."](https://cep.hkust.edu.hk/events/central-bank-digital-currencies-implementation-applications-and-challenges "Central Bank Digital Currencies: Implementation, Applications and Challenges") *HKUST, Center for Economic Policy*, (2022).
+* ["Cryptocurrencies, Blockchains and the Digital Economy."](https://cep.hkust.edu.hk/events/cryptocurrencies-blockchains-and-the-digital-economy "Cryptocurrencies, Blockchains and the Digital Economy"){: target="_blank"} *HKUST, Center for Economic Policy*, (2022).
+* ["Central Bank Digital Currencies: Implementation, Applications and Challenges."](https://cep.hkust.edu.hk/events/central-bank-digital-currencies-implementation-applications-and-challenges "Central Bank Digital Currencies: Implementation, Applications and Challenges"){: target="_blank"} *HKUST, Center for Economic Policy*, (2022).
 
 Public Engagement
 ======
-* Interviwee for CREACCIÓ / Observatori Socioeconòmic d'Osona, El 9 Nou and Osona.com, "El Talent Convidat". Digital media: [Web DOT - Talent Osona](https://dotosona.com/entrevistes/marc-dordal/ "https://dotosona.com/entrevistes/marc-dordal/"), [El 9 Nou](https://el9nou.cat/osona-ripolles/actualitat/marc-dordal-hong-kong-xina-estats-units-europa-economia-moneda-banc-central-inflacio/ "https://el9nou.cat/osona-ripolles/actualitat/marc-dordal-hong-kong-xina-estats-units-europa-economia-moneda-banc-central-inflacio/"), [Osona.com](https://naciodigital.cat/osona/economia/abans-xina-fabricava-productes-menys-valor-afegit-ara-ja-no_2050322_102.html "https://naciodigital.cat/osona/economia/abans-xina-fabricava-productes-menys-valor-afegit-ara-ja-no_2050322_102.html"), [CREACCIÓ - Youtube](https://www.youtube.com/watch?v=XBxQ4JU_bOE&ab_channel=Creacci%C3%B3 "https://www.youtube.com/watch?v=XBxQ4JU_bOE&ab_channel=Creacci%C3%B3").
+* Interviwee for CREACCIÓ / Observatori Socioeconòmic d'Osona, El 9 Nou and Osona.com, "El Talent Convidat". Digital media: [Web DOT - Talent Osona](https://dotosona.com/entrevistes/marc-dordal/ "https://dotosona.com/entrevistes/marc-dordal/"){: target="_blank"}, [El 9 Nou](https://el9nou.cat/osona-ripolles/actualitat/marc-dordal-hong-kong-xina-estats-units-europa-economia-moneda-banc-central-inflacio/ "https://el9nou.cat/osona-ripolles/actualitat/marc-dordal-hong-kong-xina-estats-units-europa-economia-moneda-banc-central-inflacio/"){: target="_blank"}, [Osona.com](https://naciodigital.cat/osona/economia/abans-xina-fabricava-productes-menys-valor-afegit-ara-ja-no_2050322_102.html "https://naciodigital.cat/osona/economia/abans-xina-fabricava-productes-menys-valor-afegit-ara-ja-no_2050322_102.html"){: target="_blank"}, [CREACCIÓ - Youtube](https://www.youtube.com/watch?v=XBxQ4JU_bOE&ab_channel=Creacci%C3%B3 "https://www.youtube.com/watch?v=XBxQ4JU_bOE&ab_channel=Creacci%C3%B3"){: target="_blank"}.
 
 <!-- Talks
 ======
