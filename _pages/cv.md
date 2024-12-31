@@ -24,27 +24,6 @@ Education
 * M.Sc. in Economics and Finance, *Barcelona School of Economics*, 2012.
 * B.S. (Llicenciatura) in Economics, *Universitat Pompeu Fabra*, 2011.
 
-<!-- Work experience
-======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub -->
-  
-<!-- Skills
-======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3 -->
-
 Research
 ======
 ## Published/Accepted Papers
@@ -91,7 +70,7 @@ Ph.D. Student Supervision
 
 Ph.D. Thesis Committee Member
 ======
-Xiang SHI (job market candidate); Jun YU; Hei Chun (Alvin) LO.
+Zhenghua QI (job market candidate); Xiang SHI; Jun YU; Hei Chun (Alvin) LO.
 
 Teaching
 ======
@@ -108,13 +87,13 @@ Service and Leadership
 
 Conferences, Events & Seminars (including scheduled, * by co-authors)
 ======
-<span style="font-size: 1.1em; font-weight: bold;">2024 - </span> IV Winter Workshop, Societat d'Economia Catalana; 2024 European Winter Meeting of the Econometric Society (EWMES 2024), Universitat de les Illes Balears; Econometric Society Australasian Meetings (ESAM2024), Monash University; International Macro History Online Seminar Series (IMHOS - Graduate Institute's Centre for Finance and Development and CEPR)\*; London Juniors Finance Workshop (Imperial College London)\*; Sa&iuml;d Business School Finance Jamboree\*; 2024 Asia Meeting of the Econometric Society in China (AMES2024-China), Zhejiang University; 7<sup>th</sup> HKUST/Jinan Joint Macro Workshop; 2024 Asia Meeting of the Econometric Society, East & Southeast Asia (AMES-E/SE) (declined); CREI-UPF Macroeconomics Seminar; 2024 Annual Meeting Society for Economic Dynamics (SED2024)\*; 2024 Econometric Society North America Summer Meeting (NASM2024)\*; International Conference on Central Bank Digital Currencies and Payment Systems, HKMA, AoF/HKIMR and HKUST; Center for Economic Policy Brownbag seminar, HKUST.
+<span style="font-weight: bold;">2024 - </span> IV Winter Workshop, Societat d'Economia Catalana; 2024 European Winter Meeting of the Econometric Society (EWMES 2024), Universitat de les Illes Balears; Econometric Society Australasian Meetings (ESAM2024), Monash University; International Macro History Online Seminar Series (IMHOS - Graduate Institute's Centre for Finance and Development and CEPR)\*; London Juniors Finance Workshop (Imperial College London)\*; Sa&iuml;d Business School Finance Jamboree\*; 2024 Asia Meeting of the Econometric Society in China (AMES2024-China), Zhejiang University; 7<sup>th</sup> HKUST/Jinan Joint Macro Workshop; 2024 Asia Meeting of the Econometric Society, East & Southeast Asia (AMES-E/SE) (declined); CREI-UPF Macroeconomics Seminar; 2024 Annual Meeting Society for Economic Dynamics (SED2024)\*; 2024 Econometric Society North America Summer Meeting (NASM2024)\*; International Conference on Central Bank Digital Currencies and Payment Systems, HKMA, AoF/HKIMR and HKUST; Center for Economic Policy Brownbag seminar, HKUST.
 
-<span style="font-size: 1.1em; font-weight: bold;">2023 - </span> Tsinghua School of Economics and Management; East Asia Macroeconomics Conference, CUHK; Asia Meeting of the Econometric Society (AMES Singapore), NTU Singapore; 6<sup>th</sup> HKUST/Jinan Joint Macro Workshop; 11<sup>th</sup> Meeting of the Hong Kong Junior Macro Group; Third Catalan Economic Society Conference (CESC); UT Austin - McCombs (finance)\*; Oxford (economics department's macro seminar)\*.
+<span style="font-weight: bold;">2023 - </span> Tsinghua School of Economics and Management; East Asia Macroeconomics Conference, CUHK; Asia Meeting of the Econometric Society (AMES Singapore), NTU Singapore; 6<sup>th</sup> HKUST/Jinan Joint Macro Workshop; 11<sup>th</sup> Meeting of the Hong Kong Junior Macro Group; Third Catalan Economic Society Conference (CESC); UT Austin - McCombs (finance)\*; Oxford (economics department's macro seminar)\*.
 
-<span style="font-size: 1.1em; font-weight: bold;">2022 - </span> 5<sup>th</sup> HKUST/Jinan Joint Macro Workshop; 5<sup>th</sup> Meeting of the Hong Kong Junior Macro Group; Canadian Economics Association Meetings (CEA 2022)\*; Oxford Saïd – Risk Centre at ETH Zürich Macro-Finance Conference 2022 (at Oxford)\*; The University of Hong Kong (macro)\*; Princeton (macro internal)\*; Princeton (finance internal)\*.
+<span style="font-weight: bold;">2022 - </span> 5<sup>th</sup> HKUST/Jinan Joint Macro Workshop; 5<sup>th</sup> Meeting of the Hong Kong Junior Macro Group; Canadian Economics Association Meetings (CEA 2022)\*; Oxford Saïd – Risk Centre at ETH Zürich Macro-Finance Conference 2022 (at Oxford)\*; The University of Hong Kong (macro)\*; Princeton (macro internal)\*; Princeton (finance internal)\*.
 
-<span style="font-size: 1.1em; font-weight: bold;">2021 - </span> UC Berkeley (macro lunch, GEMS); Federal Reserve Board of Governors (Financial Stability Division and International Finance Division)\*; University of Oxford - Saïd (finance)\*; The University of Hong Kong (macro)\*; NYU - Stern and NYU - Shanghai (finance)\*; Bank of Canada\*.
+<span style="font-weight: bold;">2021 - </span> UC Berkeley (macro lunch, GEMS); Federal Reserve Board of Governors (Financial Stability Division and International Finance Division)\*; University of Oxford - Saïd (finance)\*; The University of Hong Kong (macro)\*; NYU - Stern and NYU - Shanghai (finance)\*; Bank of Canada\*.
 
 
 Conference Paper Discussant
