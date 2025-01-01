@@ -53,13 +53,19 @@ Research
   {% endfor %}</ul>
 {% endif %}
 
-Research Grants
+Research Grants, Honors, and Awards
 ======
-* Research Grants Council, Early Career Scheme (ECS), Project #: 26603022, "Fed "Influencers": How individual characteristics and charisma affect FOMC policy decisions." Funding: HK$854,550, date: 2023-2025.
+* Research Grants Council, Early Career Scheme (ECS), Project #: 26603022, "Fed "Influencers": How individual characteristics and charisma affect FOMC policy decisions." Funding: HK$854,550, (2023-2025).
+* Doctoral Completion Fellowship, UC Berkeley, (2019).
+* Bank of Spain Study Grant, Bank of Spain, (2016).
+* BEHL 2nd Year Student Mentored Fellowship, Berkeley Economics History Laboratory, (2015).
+* "La Caixa" Foundation Scholarship for graduate studies and research in the USA, "La Caixa" Foundation, (2012).
+* Award to the top ten academic transcripts of the cohort, Universitat Pompeu Fabra, (2011).
+* Collaboration Grant, Spanish Ministry of Education, (2010).
 
 Referee
 ======
-Journal of Monetary Economics; The Review of Economics and Statistics; Pacific Economic Review.
+Journal of Monetary Economics (&times;3); The Review of Economics and Statistics; Pacific Economic Review.
 
 Ph.D. Student Supervision
 ======
