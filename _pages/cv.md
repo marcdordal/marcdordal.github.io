@@ -11,18 +11,32 @@ redirect_from:
 
 You can download a <kbd>.pdf</kbd> version of my [CV here](http://marcdordal.github.io/files/CV_Marc_Dordal.pdf "CV Marc Dordal"){: target="_blank"}.
 
-Current Affiliations
+Academic Employment
 ======
-* Assistant Professor of Economics, *Hong Kong University of Science and Technology*, 2021-Present.
+* Assistant Professor of Economics (tenure-track), *Hong Kong University of Science and Technology* (2021-Present).
 
 Education
 ======
-* Ph.D. in Economics, *University of California, Berkeley*, 2021.
+* Ph.D. in Economics, *University of California, Berkeley* (2021).
   * Thesis Committee: Yuriy Gorodnichenko (chair), Andr&eacute;s Rodr&iacute;guez-Clare, Christina Romer.
   * Credential ID: 211KOAXWM9SX [Show Credential](https://registrar.berkeley.edu/credential-validation/){: .btn target="_blank"}
-* M.Res. in Economics, Finance and Management, *Universitat Pompeu Fabra*, 2013.
-* M.Sc. in Economics and Finance, *Barcelona School of Economics*, 2012.
-* B.S. (Llicenciatura) in Economics, *Universitat Pompeu Fabra*, 2011.
+* Visiting Graduate Student, *Columbia University* (2014).
+* M.Res. in Economics, Finance and Management, *Universitat Pompeu Fabra* (2013).
+* M.Sc. in Economics and Finance, *Barcelona School of Economics* (2012).
+* B.S. (Llicenciatura) in Economics, *Universitat Pompeu Fabra* (2011).
+
+<!-- Profressional Affiliations
+====== -->
+
+Previous Appointments
+======
+* Research Assistant with Prof. Yuriy Gorodnichenko, *University of California, Berkeley* (2016).
+* Research Assistant with Prof. Antonio Ciccone, *Universitat Pompeu Fabra* (Summer 2011).
+* Research Assistant with Prof. Libertad Gonz&aacute;lez Luna, *Universitat Pompeu Fabra* (2010-2011).
+
+Research Interests
+======
+Macroeconomics, Finance, Banking, Fiscal and Monetary Policy, Economic History.
 
 Research
 ======
@@ -55,13 +69,14 @@ Research
 
 Research Grants, Honors, and Awards
 ======
-* Research Grants Council, Early Career Scheme (ECS), Project #: 26603022, "Fed "Influencers": How individual characteristics and charisma affect FOMC policy decisions." Funding: HK$854,550, (2023-2025).
-* Doctoral Completion Fellowship, UC Berkeley, (2019).
-* Bank of Spain Study Grant, Bank of Spain, (2016).
-* BEHL 2nd Year Student Mentored Fellowship, Berkeley Economics History Laboratory, (2015).
-* "La Caixa" Foundation Scholarship for graduate studies and research in the USA, "La Caixa" Foundation, (2012).
-* Award to the top ten academic transcripts of the cohort, Universitat Pompeu Fabra, (2011).
-* Collaboration Grant, Spanish Ministry of Education, (2010).
+* Research Grants Council, Early Career Scheme (ECS), Project #: 26603022, "Fed "Influencers": How individual characteristics and charisma affect FOMC policy decisions." Funding: HK$854,550 (2023-2025).
+* Doctoral Completion Fellowship, UC Berkeley (2019).
+* Bank of Spain Study Grant, Bank of Spain (2016).
+* BEHL 2nd Year Student Mentored Fellowship, Berkeley Economics History Laboratory (2015).
+* "La Caixa" Foundation Scholarship for graduate studies and research in the USA, "La Caixa" Foundation (2012).
+* Teaching Assistantship Grant, Economics and Business Department, Universitat Pompeu Fabra (2011).
+* Award to the top ten academic transcripts of the cohort, Universitat Pompeu Fabra (2011).
+* Collaboration Grant, Spanish Ministry of Education (2010).
 
 Referee
 ======
@@ -80,15 +95,15 @@ Zhenghua QI (job market candidate); Xiang SHI; Jun YU; Hei Chun (Alvin) LO.
 
 Teaching
 ======
-* *HKUST*, Economics Department
+* Economics Department, *HKUST*
   * Spring 22; Fall 22-24: ECON 2123 Macroeconomics.
   * Fall 21-24: ECON 5250 Macroeconomic Theory I.
   * Fall 22, Summer 24: ECON 6980-R1 (UG/M.Sc. Independent Research Study supervisor).
 
 Service and Leadership
 ======
-* Member, Postgraduate Committee.
-* Co-organizer, Macro Reading group and Research Postgraduate Student Workshop.
+* Member, Postgraduate Committee, Economics Department, *HKUST* (2023-Present).
+* Co-organizer, Macro Reading group and Research Postgraduate Student Workshop, *HKUST* (2022-Present).
 <!-- * Dordal i Carreras, Marc, Kohei Kawaguchi, Edwin L.C. Lai, "Estimating demand for e-HKD and assessing its impacts on Hong Kong economy", *Research Assessment Exercise*, (2026). -->
 
 Conferences, Events & Seminars (including scheduled, * by co-authors)
@@ -105,17 +120,17 @@ Conferences, Events & Seminars (including scheduled, * by co-authors)
 
 Conference Paper Discussant
 ======
-* The Sixth China International Conference in Macroeconomics (CICM2024), discussant for "A Macroeconomic Model with Bond Market Liquidity" by Huifeng Chang, (2024).
-* EFG and CUHK(SZ) Joint Macro Workshop on "Expectations, Information Frictions and Economic Policy", discussant for "Inflation Disagreement Weakens the Power of Monetary Policy" by Ding Dong, Zheng Liu, Pengfei Wang, and Min Wei, (2024).
-* HKUST/Jinan Joint Macro Workshop, 4<sup>th</sup> edition, discussant for "Flattening of the Phillips Curve: Causes and Their Policy Implications" by Chen Kan, (2021).
+* The Sixth China International Conference in Macroeconomics (CICM2024), discussant for "A Macroeconomic Model with Bond Market Liquidity" by Huifeng Chang (2024).
+* EFG and CUHK(SZ) Joint Macro Workshop on "Expectations, Information Frictions and Economic Policy", discussant for "Inflation Disagreement Weakens the Power of Monetary Policy" by Ding Dong, Zheng Liu, Pengfei Wang, and Min Wei (2024).
+* HKUST/Jinan Joint Macro Workshop, 4<sup>th</sup> edition, discussant for "Flattening of the Phillips Curve: Causes and Their Policy Implications" by Chen Kan (2021).
 
 Conferences & Events Local Organizing Activities
 ======
-* International Conference on Central Bank Digital Currencies and Payment Systems, *HKMA, AoF/HKIMR and HKUST*, (2024).
-* HKUST/Jinan Joint Macro Workshop, 6<sup>th</sup> - 8<sup>th</sup> editions, *HKUST and Jinan University*, (2022-2024).
-* Hong Kong Junior Macro Workshop, 5<sup>th</sup> edition, *HKUST*, (2022).
-* ["Cryptocurrencies, Blockchains and the Digital Economy."](https://cep.hkust.edu.hk/events/cryptocurrencies-blockchains-and-the-digital-economy "Cryptocurrencies, Blockchains and the Digital Economy"){: target="_blank"} *HKUST, Center for Economic Policy*, (2022).
-* ["Central Bank Digital Currencies: Implementation, Applications and Challenges."](https://cep.hkust.edu.hk/events/central-bank-digital-currencies-implementation-applications-and-challenges "Central Bank Digital Currencies: Implementation, Applications and Challenges"){: target="_blank"} *HKUST, Center for Economic Policy*, (2022).
+* International Conference on Central Bank Digital Currencies and Payment Systems, *HKMA, AoF/HKIMR and HKUST* (2024).
+* HKUST/Jinan Joint Macro Workshop, 6<sup>th</sup> - 8<sup>th</sup> editions, *HKUST and Jinan University* (2022-2024).
+* Hong Kong Junior Macro Workshop, 5<sup>th</sup> edition, *HKUST* (2022).
+* ["Cryptocurrencies, Blockchains and the Digital Economy."](https://cep.hkust.edu.hk/events/cryptocurrencies-blockchains-and-the-digital-economy "Cryptocurrencies, Blockchains and the Digital Economy"){: target="_blank"} *HKUST, Center for Economic Policy* (2022).
+* ["Central Bank Digital Currencies: Implementation, Applications and Challenges."](https://cep.hkust.edu.hk/events/central-bank-digital-currencies-implementation-applications-and-challenges "Central Bank Digital Currencies: Implementation, Applications and Challenges"){: target="_blank"} *HKUST, Center for Economic Policy* (2022).
 
 Professional Membership
 ======
@@ -123,7 +138,7 @@ Professional Membership
 
 Public Engagement
 ======
-* Interviwee for CREACCIÓ / Observatori Socioeconòmic d'Osona, El 9 Nou and Osona.com, "El Talent Convidat". Digital media: [Web DOT - Talent Osona](https://dotosona.com/entrevistes/marc-dordal/ "https://dotosona.com/entrevistes/marc-dordal/"){: target="_blank"}, [El 9 Nou](https://el9nou.cat/osona-ripolles/actualitat/marc-dordal-hong-kong-xina-estats-units-europa-economia-moneda-banc-central-inflacio/ "https://el9nou.cat/osona-ripolles/actualitat/marc-dordal-hong-kong-xina-estats-units-europa-economia-moneda-banc-central-inflacio/"){: target="_blank"}, [Osona.com](https://naciodigital.cat/osona/economia/abans-xina-fabricava-productes-menys-valor-afegit-ara-ja-no_2050322_102.html "https://naciodigital.cat/osona/economia/abans-xina-fabricava-productes-menys-valor-afegit-ara-ja-no_2050322_102.html"){: target="_blank"}, [CREACCIÓ - Youtube](https://www.youtube.com/watch?v=XBxQ4JU_bOE&ab_channel=Creacci%C3%B3 "https://www.youtube.com/watch?v=XBxQ4JU_bOE&ab_channel=Creacci%C3%B3"){: target="_blank"}.
+* Interviwee for CREACCIÓ / Observatori Socioeconòmic d'Osona, El 9 Nou and Osona.com, "El Talent Convidat" (2024). Digital media: [Web DOT - Talent Osona](https://dotosona.com/entrevistes/marc-dordal/ "https://dotosona.com/entrevistes/marc-dordal/"){: target="_blank"}, [El 9 Nou](https://el9nou.cat/osona-ripolles/actualitat/marc-dordal-hong-kong-xina-estats-units-europa-economia-moneda-banc-central-inflacio/ "https://el9nou.cat/osona-ripolles/actualitat/marc-dordal-hong-kong-xina-estats-units-europa-economia-moneda-banc-central-inflacio/"){: target="_blank"}, [Osona.com](https://naciodigital.cat/osona/economia/abans-xina-fabricava-productes-menys-valor-afegit-ara-ja-no_2050322_102.html "https://naciodigital.cat/osona/economia/abans-xina-fabricava-productes-menys-valor-afegit-ara-ja-no_2050322_102.html"){: target="_blank"}, [CREACCIÓ - Youtube](https://www.youtube.com/watch?v=XBxQ4JU_bOE&ab_channel=Creacci%C3%B3 "https://www.youtube.com/watch?v=XBxQ4JU_bOE&ab_channel=Creacci%C3%B3"){: target="_blank"}.
 * VOX EU.
 
 <!-- Talks
