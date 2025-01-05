@@ -141,6 +141,10 @@ Public Engagement
 * Interviwee for CREACCIÓ / Observatori Socioeconòmic d'Osona, El 9 Nou and Osona.com, "El Talent Convidat" (2024). Digital media: [Web DOT - Talent Osona](https://dotosona.com/entrevistes/marc-dordal/ "https://dotosona.com/entrevistes/marc-dordal/"){: target="_blank"}, [El 9 Nou](https://el9nou.cat/osona-ripolles/actualitat/marc-dordal-hong-kong-xina-estats-units-europa-economia-moneda-banc-central-inflacio/ "https://el9nou.cat/osona-ripolles/actualitat/marc-dordal-hong-kong-xina-estats-units-europa-economia-moneda-banc-central-inflacio/"){: target="_blank"}, [Osona.com](https://naciodigital.cat/osona/economia/abans-xina-fabricava-productes-menys-valor-afegit-ara-ja-no_2050322_102.html "https://naciodigital.cat/osona/economia/abans-xina-fabricava-productes-menys-valor-afegit-ara-ja-no_2050322_102.html"){: target="_blank"}, [CREACCIÓ - Youtube](https://www.youtube.com/watch?v=XBxQ4JU_bOE&ab_channel=Creacci%C3%B3 "https://www.youtube.com/watch?v=XBxQ4JU_bOE&ab_channel=Creacci%C3%B3"){: target="_blank"}.
 * VOX EU.
 
+Languages
+======
+Catalan (native), Spanish (native), English (proficient).
+
 <!-- Talks
 ======
   <ul>{% for post in site.talks %}
