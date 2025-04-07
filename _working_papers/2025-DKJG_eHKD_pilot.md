@@ -1,7 +1,7 @@
 ---
-date: 22/02/2025
+date: 7/4/2025
 collection: working_papers
-permalink: /working_paper/22/02/2025-DKJG_eHKD_pilot
+permalink: /working_paper/7/4/2025-DKJG_eHKD_pilot
 status2: 'revise_resubmit'
 title: "Consumer Perceptions and Willingness to Adopt rCBDCs Before and After the e-HKD Pilot"
 venue: 'Distributed Ledger Technologies: Research and Practice'
