@@ -1,7 +1,7 @@
 ---
-date: 7/4/2025
+date: 27/4/2025
 collection: working_papers
-permalink: /working_paper/7/4/2025-DJ_Higher_OrderFW
+permalink: /working_paper/27/4/2025-DJ_Higher_OrderFW
 status2: 'revise_resubmit'
 title: "Higher-Order Forward Guidance"
 venue: 'Journal of Economic Theory'
