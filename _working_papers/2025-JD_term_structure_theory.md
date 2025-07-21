@@ -1,9 +1,10 @@
 ---
-date: 22/02/2025
+date: 22/2/2025
 collection: working_papers
-permalink: /working_paper/22/02/2025-JD_term_structure_theory
-status2: 'submitted'
+permalink: /working_paper/22/2/2025-JD_term_structure_theory
+status2: 'revise_resubmit'
 title: "Yield-Curve Control Policy under Inelastic Financial Markets"
+venue: 'The Economic Journal'
 excerpt: 'We develop a New Keynesian framework that incorporates the term structure of financial markets, emphasizing the role of government and central bank balance sheet composition in monetary policy transmission. Our model accounts for microfounded market segmentation across asset classes and maturities based on finite and estimable asset demand elasticities. We show that unconventional policy interventions, such as large-scale asset purchase programs and yield-curve control policies, effectively stabilize the economy during normal periods and at the zero lower bound, albeit by extending ZLB episodes and reducing the efficacy of future short-term rate adjustments.'
 custom_excerpt: 'true'
 abstract: 'We develop a New Keynesian framework that incorporates the term structure of financial markets, emphasizing the role of government and central bank balance sheet composition in monetary policy transmission. Our model accounts for microfounded market segmentation across asset classes and maturities based on finite and estimable asset demand elasticities. We show that unconventional policy interventions, such as large-scale asset purchase programs and yield-curve control policies, effectively stabilize the economy during normal periods and at the zero lower bound, albeit by extending ZLB episodes and reducing the efficacy of future short-term rate adjustments.'
