@@ -2,8 +2,9 @@
 date: 21/7/2025
 collection: working_papers
 permalink: /working_paper/21/7/2025-JD_sunspot
-status2: 'submitted'
+status2: 'revise_resubmit'
 title: "Self-fulfilling Volatility and a New Monetary Policy"
+venue: 'Journal of the European Economic Association'
 excerpt: 'We demonstrate that macroeconomic models with nominal rigidities feature multiple global solutions supporting alternative equilibria traditionally overlooked in the literature. In these equilibria, conventional Taylor rules give rise to self-fulfilling aggregate volatility, propelling the economy into crises (booms) characterized by elevated (reduced) aggregate risk. This outcome stems from the inability of conventional rules to target the expected growth rate of output, which is determined not only by the policy rate but also by the strength of the precautionary savings channel. We propose a new policy rule that targets both conventional mandates and aggregate volatility, reestablishing determinacy and achieving full stabilization.'
 custom_excerpt: 'true'
 abstract: 'We demonstrate that macroeconomic models with nominal rigidities feature multiple global solutions supporting alternative equilibria traditionally overlooked in the literature. In these equilibria, conventional Taylor rules give rise to self-fulfilling aggregate volatility, propelling the economy into crises (booms) characterized by elevated (reduced) aggregate risk. This outcome stems from the inability of conventional rules to target the expected growth rate of output, which is determined not only by the policy rate but also by the strength of the precautionary savings channel. We propose a new policy rule that targets both conventional mandates and aggregate volatility, reestablishing determinacy and achieving full stabilization.'

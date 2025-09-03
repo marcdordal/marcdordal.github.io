@@ -2,9 +2,8 @@
 date: 22/2/2025
 collection: working_papers
 permalink: /working_paper/22/2/2025-DJQ_ASAD_revisited
-status2: 'reject_resubmit'
+status2: 'submitted'
 title: "Endogenous Firm Entry and the Monetary Policy 'Room'"
-venue: 'European Economic Review'
 excerpt: 'We present a business cycle model featuring endogenous firm entry. Entry-induced short-run shifts in supply shape the economy&apos;s response to both supply and demand shocks. In particular, rising aggregate demand spurs entry, expanding supply and reinforcing demand through entrants&apos; investment expenditures. Monetary policy influences both aggregate demand and the entry decisions of financially constrained firms, shaping cycle dynamics in economies with high entry potential. Equilibrium firm entry is characterized by the &apos;policy room&apos;, a sufficient statistic for monetary policy effectiveness in both the model and empirical data.'
 custom_excerpt: 'true'
 abstract: 'We present a business cycle model featuring endogenous firm entry. Entry-induced short-run shifts in supply shape the economy&apos;s response to both supply and demand shocks. In particular, rising aggregate demand spurs entry, expanding supply and reinforcing demand through entrants&apos; investment expenditures. Monetary policy influences both aggregate demand and the entry decisions of financially constrained firms, shaping cycle dynamics in economies with high entry potential. Equilibrium firm entry is characterized by the &apos;policy room&apos;, a sufficient statistic for monetary policy effectiveness in both the model and empirical data.'
