@@ -2,7 +2,7 @@
 date: 27/4/2025
 collection: working_papers
 permalink: /working_paper/27/4/2025-DJ_Higher_OrderFW
-status2: 'conditional_accepted'
+status2: 'accepted'
 title: "Higher-Order Forward Guidance"
 venue: 'Journal of Economic Theory'
 excerpt: 'This paper develops a business cycle model with endogenous financial volatility at the Zero Lower Bound (ZLB), highlighting forward guidance as a key mechanism for coordinating market behavior and improving welfare. We show that central banks can reduce excess volatility by credibly pledging future stabilization, or alternatively, by withholding such pledges to direct the economy toward favorable outcomes with lower volatility, revealing a trade-off. We also find that partial uncertainty about future policy dominates strict commitments. Finally, fiscal measures that promote risky asset investments can boost economic activity at the ZLB by increasing aggregate household financial wealth.'
