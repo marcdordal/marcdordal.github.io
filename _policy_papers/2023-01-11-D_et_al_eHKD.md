@@ -1,7 +1,7 @@
 ---
-date: 11/1/2023
+date: 2023-01-11
 collection: policy_papers
-permalink: /policy_paper/11/1/2023-D_et_al_eHKD
+permalink: /policy_paper/2023-01-11-D_et_al_eHKD
 title: "e-HKD Pilot Programme"
 excerpt: 'The e-HKD Pilot Programme is a key component of the HKMA&apos;s three-rail approach in paving the way for a possible implementation of a retail central bank digital currency (CBDC). The pilot programme enables HKMA&apos;s collaboration with the industry to examine innovative use cases and maximise Hong Kong&apos;s readiness for a potential e-HKD. The Hongkong and Shanghai Banking Corporation Limited (HSBC) was one of the institutions selected to participate. Collaborating with the Hong Kong University of Science and Technology (HKUST), HSBC sought to explore possible e-HKD every-day payment use cases, focusing on programmability as a value-add feature of digital currency as well as payment rail efficiency. HSBC and HKUST constructed a one-week pilot on the HKUST campus, which included 148 students and 5 merchants.'
 custom_excerpt: 'true'
