@@ -12,6 +12,37 @@
   {% assign title = post.title %}
 {% endif %}
 
+{% assign paper_display_mode = include.display_mode | default: "default" %}
+{% assign compact_display = false %}
+{% if paper_display_mode == "compact" %}
+  {% assign compact_display = true %}
+{% endif %}
+
+{% capture paper_status_html %}
+  {% if post.collection == 'teaching' %}
+    {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+  {% elsif post.status2 == 'accepted' %}
+    <i>Accepted for publication in {{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+  {% elsif post.status2 == 'conditional_accepted' %}
+    <i>Accepted subject to revisions in {{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+  {% elsif post.status2 == 'revise_resubmit' %}
+    <i>Revise and Resubmit for {{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+  {% elsif post.status2 == 'reject_resubmit' %}
+    <i>Reject and Resubmit for {{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+  {% elsif post.status2 == 'submitted' %}
+    <i>Submitted</i>
+  {% elsif post.collection == 'published_papers' %}
+    <i>Published in {{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }}
+  {% elsif post.collection == 'policy_papers' %}
+  {% elsif post.collection == 'working_papers' %}
+  {% elsif post.collection == 'works_in_progress' %}
+  {% elsif post.collection == 'resting_works' %}
+  {% elsif post.date %}
+    <strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time>
+  {% endif %}
+{% endcapture %}
+{% assign paper_status_html = paper_status_html | strip %}
+
 <div class="{{ include.type | default: "list" }}__item">
   <article class="archive__item" itemscope itemtype="http://schema.org/CreativeWork">
     
@@ -27,7 +58,11 @@
       </div>
     {% endif %}
 
-    {% if post.custom_excerpt %}
+    {% if compact_display %}
+      <h3 class="archive__item-title" itemprop="headline" style="display: inline; text-decoration: none; margin-right: 5px;">
+        {{ title }}
+      </h3>
+    {% elsif post.custom_excerpt %}
       <h3 class="archive__item-title" itemprop="headline" style="display: inline; margin-right: 5px;">
         <a href="{{ base_path }}{{ post.url }}" rel="permalink">{{ title }}</a>
       </h3>
@@ -36,26 +71,35 @@
         {{ title }}
       </h3>
     {% endif %}
-    <span style="font-weight: normal; display: inline; font-size: 18px;">(joint with {{ post.coauthors }})</span>
+    {% if post.coauthors %}
+      <span style="font-weight: normal; display: inline; font-size: 18px;">(joint with {{ post.coauthors }})</span>
+    {% endif %}
+    {% if compact_display and paper_status_html != "" %}
+      <span style="font-weight: normal; display: inline; font-size: 18px; margin-left: 6px;">{% if post.coauthors %}<span style="font-size: 24px;">-</span> {% endif %}{{ paper_status_html }}</span>
+    {% endif %}
+    {% if compact_display %}
+      <a href="{{ base_path }}{{ post.url }}" rel="permalink" class="btn btn--inverse" style="margin-left: 10px; text-decoration: none;">Read more</a>
+    {% endif %}
 
     {% if post.read_time %}
       <p class="page__meta"><i class="fa fa-clock-o" aria-hidden="true"></i> {% include read-time.html %}</p>
     {% endif %}
 
+    {% unless compact_display %}
     {% if post.collection == 'teaching' %}
       <p> {{ post.type }}, <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.status2 == 'accepted' %}
-      <p>Accepted for publication in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+      <p><i>Accepted for publication in {{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.status2 == 'conditional_accepted' %}
-      <p>Accepted subject to revisions in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+      <p><i>Accepted subject to revisions in {{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.status2 == 'revise_resubmit' %}
-      <p>Revise and Resubmit for <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+      <p><i>Revise and Resubmit for {{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.status2 == 'reject_resubmit' %}
-      <p>Reject and Resubmit for <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+      <p><i>Reject and Resubmit for {{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.status2 == 'submitted' %}
       <p><i>Submitted</i> </p>
     {% elsif post.collection == 'published_papers' %}
-      <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
+      <p><i>Published in {{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p>
     {% elsif post.collection == 'policy_papers' %}
       <!-- <p>Published in <i>{{ post.venue }}</i>, {{ post.date | default: "1900-01-01" | date: "%Y" }} </p> -->
     {% elsif post.collection == 'working_papers' %}
@@ -67,23 +111,18 @@
     {% elsif post.date %}
       <p class="page__date"><strong><i class="fa fa-fw fa-calendar" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].date_label | default: "Published:" }}</strong> <time datetime="{{ post.date | default: "1900-01-01" | date_to_xmlschema }}">{{ post.date | default: "1900-01-01" | date: "%B %d, %Y" }}</time></p>
     {% endif %}
+    {% endunless %}
 
+    {% unless compact_display %}
     {% if post.custom_excerpt and site.read_more != 'enabled' %}
       <p class="archive__item-excerpt" itemprop="description">{{ post.excerpt | markdownify }}</p>
     {% elsif post.custom_excerpt and site.read_more == 'enabled' %}
       <p class="archive__item-excerpt" itemprop="description"><p>{{ post.excerpt | markdownify | remove: '<p>' | remove: '</p>' }}<strong><a href="{{ base_path }}{{ post.url }}" rel="permalink"> Read more</a></strong></p></p>
     {% endif %}
+    {% endunless %}
 
-
-    <!-- {% if post.citation and post.pubpaperurl %}
-      <p>Recommended citation: {{ post.citation }} <a href="{{ post.pubpaperurl }}"><u>{{ post.pubpaperurl }}</u></a></p>
-    {% elsif post.citation %}
-      <p>Recommended citation: {{ post.citation }} </p>
-    {% elsif post.pubpaperurl %}
-      <p>Download <a href=" {{ post.pubpaperurl }} "><u>here</u></a></p>
-    {% endif %} -->
-
-  <p>
+  {% if post.pubpaperurl or post.wppaperurl or post.slidesurl or post.opt0url or post.opt1url or post.opt2url %}
+  <p{% if compact_display %} style="margin: 0.25em 0 0 0;"{% endif %}>
   {% if post.pubpaperurl %}
     [<a href="{{ post.pubpaperurl }}" target="_blank">Publication</a>]
   {% endif %}
@@ -103,7 +142,9 @@
     [<a href="{{ post.opt2url }}" target="_blank">{{ post.opt2text }}</a>]
   {% endif %}
   </p>
+  {% endif %}
 
+  {% unless compact_display %}
   {% if post.citation and post.custom_excerpt and post.pubpaperurl %}
     Recommended citation: {{ post.citation }} {{ post.pubpaperurl }}
   {% elsif post.citation and post.custom_excerpt and post.wppaperurl %}
@@ -111,6 +152,7 @@
   {% elsif post.citation and post.custom_excerpt %}
     Recommended citation: {{ post.citation }}
   {% endif %}
+  {% endunless %}
 
   </article>
 </div>
