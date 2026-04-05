@@ -12,11 +12,11 @@ citation: 'Dordal i Carreras, Marc, Seung Joo Lee, and Zhenghua Qi. &quot;Endoge
 cv_citation_authors: 'Dordal i Carreras, Marc, Seung Joo Lee, and Zhenghua Qi.'
 cv_citation_other: '<i>Working Paper</i> (2026).'
 url_slug: 'DJQ_ASAD_revisited'
-wppaperurl: 'http://marcdordal.github.io/files/WP_Firm_Entry_Supply_side_MP.pdf'
-slidesurl: 'http://marcdordal.github.io/files/slides_Firm_Entry_Supply_side_MP.pdf'
+wppaperurl: 'https://marcdordal.github.io/files/WP_Firm_Entry_Supply_side_MP.pdf'
+slidesurl: 'https://marcdordal.github.io/files/slides_Firm_Entry_Supply_side_MP.pdf'
 ---
 Abstract: We present a business cycle model featuring endogenous firm entry. Entry-induced short-run shifts in supply shape the economy&apos;s response to both supply and demand shocks. In particular, rising aggregate demand spurs entry, expanding supply and reinforcing demand through entrants&apos; investment expenditures. Monetary policy influences both aggregate demand and the entry decisions of financially constrained firms, shaping cycle dynamics in economies with high entry potential. Equilibrium firm entry is characterized by the &apos;policy room&apos;, a sufficient statistic for monetary policy effectiveness in both the model and empirical data.
 
-[[Draft](http://marcdordal.github.io/files/WP_Firm_Entry_Supply_side_MP.pdf){: target="_blank" }] [[Slides](http://marcdordal.github.io/files/slides_Firm_Entry_Supply_side_MP.pdf){: target="_blank" }] 
+[[Draft](https://marcdordal.github.io/files/WP_Firm_Entry_Supply_side_MP.pdf){: target="_blank" }] [[Slides](https://marcdordal.github.io/files/slides_Firm_Entry_Supply_side_MP.pdf){: target="_blank" }] 
 
-Recommended citation: Dordal i Carreras, Marc, Seung Joo Lee, and Zhenghua Qi. "Endogenous Firm Entry and the Monetary 'Policy Room'."  <i>Working Paper</i> (2026). http://marcdordal.github.io/files/WP_Firm_Entry_Supply_side_MP.pdf
+Recommended citation: Dordal i Carreras, Marc, Seung Joo Lee, and Zhenghua Qi. "Endogenous Firm Entry and the Monetary 'Policy Room'."  <i>Working Paper</i> (2026). https://marcdordal.github.io/files/WP_Firm_Entry_Supply_side_MP.pdf

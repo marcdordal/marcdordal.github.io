@@ -11,7 +11,6 @@ gem 'tzinfo-data'
 # Include webrick for local server capabilities with Ruby 3.x
 gem "webrick"
 
-# HTTP client library dependencies
-gem "faraday"
+# GitHub metadata still expects Faraday retry middleware at build time.
 gem "faraday-retry"
 

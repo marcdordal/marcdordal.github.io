@@ -13,11 +13,11 @@ citation: 'Dordal i Carreras, Marc, Matthias Hoelzlein, and Jens Orben. &quot;Ef
 cv_citation_authors: 'Dordal i Carreras, Marc, Matthias Hoelzlein, and Jens Orben.'
 cv_citation_other: '<i>Working Paper</i> (2026).'
 url_slug: 'DHO_Interbank'
-wppaperurl: 'http://marcdordal.github.io/files/WP_Trade_Model_Banks.pdf'
-slidesurl: 'http://marcdordal.github.io/files/slides_Trade_Model_Banks.pdf'
+wppaperurl: 'https://marcdordal.github.io/files/WP_Trade_Model_Banks.pdf'
+slidesurl: 'https://marcdordal.github.io/files/slides_Trade_Model_Banks.pdf'
 ---
 Abstract: We propose a model of the financial sector that captures complex relationships between highly heterogeneous agents in the market for loanable interbank funds and develops the bank-to-bank component of the macroeconomics financial transmission channel. Financial institutions trade funds due to heterogeneous capacity to provide liquidity, but trade is subject to frictions and uncertainty. The model provides a tractable framework to study the trade-off between efficiency and volatility in the financial sector, and its contribution to business cycles fluctuations.
 
-[[Draft](http://marcdordal.github.io/files/WP_Trade_Model_Banks.pdf){: target="_blank" }] [[Slides](http://marcdordal.github.io/files/slides_Trade_Model_Banks.pdf){: target="_blank" }] 
+[[Draft](https://marcdordal.github.io/files/WP_Trade_Model_Banks.pdf){: target="_blank" }] [[Slides](https://marcdordal.github.io/files/slides_Trade_Model_Banks.pdf){: target="_blank" }] 
 
-Recommended citation: Dordal i Carreras, Marc, Matthias Hoelzlein, and Jens Orben. "Efficiency, Risk and the Gains from Trade in Interbank Markets."  <i>Working Paper</i> (2026). http://marcdordal.github.io/files/WP_Trade_Model_Banks.pdf
+Recommended citation: Dordal i Carreras, Marc, Matthias Hoelzlein, and Jens Orben. "Efficiency, Risk and the Gains from Trade in Interbank Markets."  <i>Working Paper</i> (2026). https://marcdordal.github.io/files/WP_Trade_Model_Banks.pdf

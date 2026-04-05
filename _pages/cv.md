@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-You can download a <kbd>.pdf</kbd> version of my [CV here](http://marcdordal.github.io/files/CV_Marc_Dordal.pdf "CV Marc Dordal"){: target="_blank"}.
+You can download a <kbd>.pdf</kbd> version of my [CV here](https://marcdordal.github.io/files/CV_Marc_Dordal.pdf "CV Marc Dordal"){: target="_blank"}.
 
 Academic Employment
 ======

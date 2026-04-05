@@ -13,11 +13,11 @@ cv_citation_authors: 'Dordal i Carreras, Marc and Seung Joo Lee.'
 cv_citation_other: '<i>Journal of Economic Theory</i> (2026): 106108.'
 url_slug: 'DJ_Higher_OrderFW'
 pubpaperurl: 'https://www.sciencedirect.com/science/article/pii/S0022053125001541'
-wppaperurl: 'http://marcdordal.github.io/files/WP_Higher_order_forward_guidance.pdf'
-slidesurl: 'http://marcdordal.github.io/files/slides_Higher_order_forward_guidance.pdf'
+wppaperurl: 'https://marcdordal.github.io/files/WP_Higher_order_forward_guidance.pdf'
+slidesurl: 'https://marcdordal.github.io/files/slides_Higher_order_forward_guidance.pdf'
 ---
 Abstract: This paper presents a model of the business cycle that incorporates financial markets and endogenous financial volatility at the Zero Lower Bound (ZLB). Within this framework, forward guidance is identified as a crucial mechanism for coordinating the actions of market participants, guiding the economy towards optimal equilibrium paths with lower financial volatility and enhanced welfare. We reveal three novel insights: (i) Central banks, by credibly pledging future economic stabilization, can mitigate excess financial market volatility at the ZLB; (ii) Alternatively, a central bank&apos;s commitment not to stabilize the economy in the future can direct the economy towards more favorable equilibrium paths with reduced endogenous volatility at the ZLB, presenting a trade-off between future business cycle stabilization and reduced financial volatility at the ZLB; (iii) Retaining some degree of uncertainty regarding the timing of future stabilization plans strictly dominates other forms of forward guidance commitments. Finally, an examination of alternative fiscal policies reveals that measures encouraging increased investment in risky assets can stimulate economic activity at the ZLB by positively impacting aggregate household financial wealth.
 
-[[Publication](https://www.sciencedirect.com/science/article/pii/S0022053125001541){: target="_blank" }] [[Draft](http://marcdordal.github.io/files/WP_Higher_order_forward_guidance.pdf){: target="_blank" }] [[Slides](http://marcdordal.github.io/files/slides_Higher_order_forward_guidance.pdf){: target="_blank" }] 
+[[Publication](https://www.sciencedirect.com/science/article/pii/S0022053125001541){: target="_blank" }] [[Draft](https://marcdordal.github.io/files/WP_Higher_order_forward_guidance.pdf){: target="_blank" }] [[Slides](https://marcdordal.github.io/files/slides_Higher_order_forward_guidance.pdf){: target="_blank" }] 
 
 Recommended citation: Dordal i Carreras, Marc and Seung Joo Lee. "Higher-Order Forward Guidance."  <i>Journal of Economic Theory</i> (2026): 106108. https://www.sciencedirect.com/science/article/pii/S0022053125001541
