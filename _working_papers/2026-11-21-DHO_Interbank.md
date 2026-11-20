@@ -1,8 +1,8 @@
 ---
-date: 2025-04-28
+date: 2026-11-21
 collection: working_papers
-permalink: /working_paper/2025-04-28-DHO_Interbank
-status2: 'revise_resubmit'
+permalink: /working_paper/2026-11-21-DHO_Interbank
+status2: 'accepted'
 title: "Efficiency, Risk and the Gains from Trade in Interbank Markets"
 venue: 'Journal of International Economics'
 excerpt: 'We propose a model of the financial sector that captures complex relationships between highly heterogeneous agents in the market for loanable interbank funds and develops the bank-to-bank component of the macroeconomics financial transmission channel. Financial institutions trade funds due to heterogeneous capacity to provide liquidity, but trade is subject to frictions and uncertainty. The model provides a tractable framework to study the trade-off between efficiency and volatility in the financial sector, and its contribution to business cycles fluctuations.'
