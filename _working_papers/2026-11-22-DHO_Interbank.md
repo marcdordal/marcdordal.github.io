@@ -1,7 +1,7 @@
 ---
-date: 2026-11-21
+date: 2026-11-22
 collection: working_papers
-permalink: /working_paper/2026-11-21-DHO_Interbank
+permalink: /working_paper/2026-11-22-DHO_Interbank
 status2: 'accepted'
 title: "Efficiency, Risk and the Gains from Trade in Interbank Markets"
 venue: 'Journal of International Economics'
